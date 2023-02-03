@@ -45,12 +45,12 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
   **IJCAI 2021** \| [Paper](https://www.ijcai.org/proceedings/2021/0159.pdf)
 
-# 🔭 Academic Service 
-- Reviewer for [ICML22](https://icml.cc/Conferences/2022/Reviewers)
-
 # 💬 Invited Talks
 - *2023.03*, Invited talk at City University of Hong Kong and The Hong Kong Polytechnic University on ["open-ended embodied agents with multi-task skills"](http://cccn.ee.cityu.edu.hk/webinar/)
 - *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence on "learning detection and description of local features".
+
+# 🔭 Academic Service 
+- Reviewer for [ICML22](https://icml.cc/Conferences/2022/Reviewers)
 
 # 💻 Internships
 - *2021.05 - 2021.08*, Alibaba, Beijing.
