@@ -45,18 +45,6 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
   **IJCAI 2021** \| [Paper](https://www.ijcai.org/proceedings/2021/0159.pdf)
 
-# 🎖 Honors and Awards
-- *2021.10* Chinese National Scholarship
-- *2019.06* Outstanding Graduate of Beijing
-- *2018.11* Autonomy Prize of Indoor Event on 10th International Micro Air Vehicle Competition and Conference, Melbourne.
-- *2018.08* First Prize on China National Robot Competition 2018.
-- *2018.04* Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
-
-# 📖 Educations
-- *2022.09 - now*, PhD candidate of Computer Science, Peking University
-- *2019.09 - 2022.06*, Master of Control Science and Technology, Beijing Institute of Technology 
-- *2015.09 - 2019.06*, Bachlor of Automation, Beijing Institute of Technology
-
 # 🔭 Academic Service 
 - Reviewer for [ICML22](https://icml.cc/Conferences/2022/Reviewers)
 
@@ -66,3 +54,15 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
 # 💻 Internships
 - *2021.05 - 2021.08*, Alibaba, Beijing.
+
+# 📖 Educations
+- *2022.09 - now*, PhD candidate of Computer Science, Peking University
+- *2019.09 - 2022.06*, Master of Control Science and Technology, Beijing Institute of Technology 
+- *2015.09 - 2019.06*, Bachlor of Automation, Beijing Institute of Technology
+
+# 🎖 Honors and Awards
+- *2021.10* Chinese National Scholarship
+- *2019.06* Outstanding Graduate of Beijing
+- *2018.11* Autonomy Prize of Indoor Event on 10th International Micro Air Vehicle Competition and Conference, Melbourne.
+- *2018.08* First Prize on China National Robot Competition 2018.
+- *2018.04* Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
