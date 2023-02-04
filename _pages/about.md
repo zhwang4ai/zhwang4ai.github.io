@@ -37,7 +37,7 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
   **Zihao Wang**, Zhen Li, Xueyi Li, Wenjie Chen, Xiangdong Liu
 
-  **TNNLS** \| [Paper](https://ieeexplore.ieee.org/abstract/document/9906927)
+  **Trans. on Neural Networks and Learning Systems** \| [Paper](https://ieeexplore.ieee.org/abstract/document/9906927)
 
 - [Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features](https://www.ijcai.org/proceedings/2021/0159.pdf)
 
