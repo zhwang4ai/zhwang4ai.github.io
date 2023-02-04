@@ -29,7 +29,7 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
 - [Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
 
-  Shaofei Cai, **Zihao Wang**, Xiaojian Ma, Anji Liu, Yitao Liang
+  [Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
 
   **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \| [Code](https://github.com/CraftJarvis/MC-Controller)
 
