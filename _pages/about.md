@@ -31,7 +31,7 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
   [Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
 
-  **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \/ [Code](https://github.com/CraftJarvis/MC-Controller)
+  **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \| [Code](https://github.com/CraftJarvis/MC-Controller)
 
 - [Graph-Based Contrastive Learning for Description and Detection of Local Features](https://ieeexplore.ieee.org/abstract/document/9906927/)
 
