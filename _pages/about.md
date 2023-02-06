@@ -23,9 +23,19 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
 
 # 🔥 News
+- *2023.02*: &nbsp;🎉🎉 New preprint on generalist open-world planning in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
+
 - *2023.01*: &nbsp;🎉🎉 New preprint on generalist open-world control in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
 
 # 📝 Publications 
+
+- [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+
+  TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of Minecraft (an open-world environment) for the first time.*
+
+  **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+
+  **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner)
 
 - [Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
 
