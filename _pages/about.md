@@ -33,7 +33,7 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
   TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of Minecraft (an open-world environment) for the first time.*
 
-  **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
 
   **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner)
 
