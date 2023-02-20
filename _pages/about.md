@@ -61,7 +61,7 @@ In particular, I am interested in leveraging large pre-trained models to improve
 - *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence on "learning detection and description of local features".
 
 # 🔭 Academic Service 
-- Reviewer for [ICML22](https://icml.cc/Conferences/2022/Reviewers)
+- Reviewer for [ICML](https://icml.cc/Conferences/2022/Reviewers)
 
 # 💻 Internships
 - *2021.05 - 2021.08*, Alibaba, Beijing.
