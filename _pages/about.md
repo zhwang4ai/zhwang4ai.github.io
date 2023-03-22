@@ -24,7 +24,7 @@ In particular, I am interested in leveraging large pre-trained models to improve
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
+- *2023.03*: &nbsp;🎉🎉 Two papers are accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
 
 - *2023.02*: &nbsp;🎉🎉 New preprint on generalist open-world planning in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
 
