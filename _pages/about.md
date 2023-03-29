@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. candidate in School of Intelligence Science and Technology at Peking University (PKU), advised by [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/). 
 Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology.
 I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning and decision making.  
-In particular, I am interested in leveraging large pre-trained models to improve generalization of agent capabilities.
+In particular, I am interested in leveraging large pre-trained *Foundation Models* to improve generalization of agent capabilities.
 
 
 # 🔥 News
