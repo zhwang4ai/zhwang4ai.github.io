@@ -22,6 +22,11 @@ Before joining PKU, I received my MSc and BA degrees in Control Science and Tech
 I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning and decision making.  
 In particular, I am interested in leveraging large pre-trained **Foundation Models** to improve generalization of agent capabilities.
 
+# 🔥 News
+- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
+
+- *2023.02*: &nbsp;🎉🎉 New preprint on generalist open-world planning in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
+
 # 📝 Publications 
 
 - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
@@ -37,6 +42,12 @@ In particular, I am interested in leveraging large pre-trained **Foundation Mode
   [Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
 
   **CVPR 2023** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \| [Code](https://github.com/CraftJarvis/MC-Controller)
+  
+- [Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://zhwang4ai.github.io)
+
+  **Zihao Wang**, Chunxu Wu, Yifei Yang, Zhen Li
+
+  **CVPR 2023** \| [Paper](https://zhwang4ai.github.io)
 
 - [Graph-Based Contrastive Learning for Description and Detection of Local Features](https://ieeexplore.ieee.org/abstract/document/9906927/)
 
