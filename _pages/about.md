@@ -22,14 +22,6 @@ Before joining PKU, I received my MSc and BA degrees in Control Science and Tech
 I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning and decision making.  
 In particular, I am interested in leveraging large pre-trained **Foundation Models** to improve generalization of agent capabilities.
 
-
-# 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Two papers are accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
-
-- *2023.02*: &nbsp;🎉🎉 New preprint on generalist open-world planning in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
-
-- *2023.01*: &nbsp;🎉🎉 New preprint on generalist open-world control in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
-
 # 📝 Publications 
 
 - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
