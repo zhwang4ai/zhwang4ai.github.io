@@ -24,9 +24,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Our paper ''Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction'' is accepted by the IEEE Computer Vision and Patter Recognition (CVPR) 2023.
-
-- *2023.02*: &nbsp;🎉🎉 New preprint on generalist open-world planning in Minecraft is [available](https://arxiv.org/pdf/2301.10034.pdf).
+- *2023.03* &nbsp;🎉🎉 Two papers are accepted by CVPR 2023.
 
 # 📝 Publications 
 
@@ -44,11 +42,11 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
   **CVPR 2023** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \| [Code](https://github.com/CraftJarvis/MC-Controller)
   
-- [Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://zhwang4ai.github.io)
+- [Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
 
   **Zihao Wang**, Chunxu Wu, Yifei Yang, Zhen Li
 
-  **CVPR 2023** \| [Paper](https://zhwang4ai.github.io)
+  **CVPR 2023** \| [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
 
 - [Graph-Based Contrastive Learning for Description and Detection of Local Features](https://ieeexplore.ieee.org/abstract/document/9906927/)
 
@@ -67,13 +65,13 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 - *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence on "learning detection and description of local features".
 
 # 🔭 Academic Service 
-- Reviewer for [ICML](https://icml.cc/Conferences/2022/Reviewers)
+- Reviewer for [ICML](https://icml.cc/Conferences/2022/Reviewers), NeurIPS.
 
 # 💻 Internships
 - *2021.05 - 2021.08*, Alibaba, Beijing.
 
 # 📖 Educations
-- *2022.09 - now*, PhD candidate of Computer Science, Peking University
+- *2022.09 - now*, PhD student of Computer Science, Peking University
 - *2019.09 - 2022.06*, Master of Control Science and Technology, Beijing Institute of Technology 
 - *2015.09 - 2019.06*, Bachlor of Automation, Beijing Institute of Technology
 
