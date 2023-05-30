@@ -24,7 +24,8 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-- *2023.03* &nbsp;🎉🎉 Two papers are accepted by CVPR 2023.
+
+- *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023.
 
 # 📝 Publications 
 
