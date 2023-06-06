@@ -99,7 +99,7 @@ School of Intelligence Science and Technology, Peking University
 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/TNNLS22.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">TNNLS</div><img src='images/papers/TNNLS22.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Graph-Based Contrastive Learning for Description and Detection of Local Features](https://ieeexplore.ieee.org/abstract/document/9906927/)
@@ -120,7 +120,7 @@ School of Intelligence Science and Technology, Peking University
 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/IJCAI21.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">IJCAI 2021</div><img src='images/papers/IJCAI21.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features](https://www.ijcai.org/proceedings/2021/0159.pdf)
