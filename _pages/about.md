@@ -85,7 +85,7 @@ School of Intelligence Science and Technology, Peking University
 
 **Zihao Wang**, Chunxu Wu, Yifei Yang, Zhen Li
 
-**CVPR 2023** \| [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
+**CVPR 2023** 
 
 </div>
 </div>
@@ -106,7 +106,7 @@ School of Intelligence Science and Technology, Peking University
 
 **Zihao Wang**, Zhen Li, Xueyi Li, Wenjie Chen, Xiangdong Liu
 
-**IEEE Trans. Neural Netw. Learn. Syst.** \| [Paper](https://ieeexplore.ieee.org/abstract/document/9906927)
+**IEEE Trans. Neural Netw. Learn. Syst.** 
 
 </div>
 </div>
@@ -127,7 +127,7 @@ School of Intelligence Science and Technology, Peking University
 
 **Zihao Wang**, Xueyi Li, Zhen Li
 
-**IJCAI 2021** \| [Paper](https://www.ijcai.org/proceedings/2021/0159.pdf)
+**IJCAI 2021** 
 
 </div>
 </div>
