@@ -146,6 +146,7 @@ School of Intelligence Science and Technology, Peking University
 
 # 🔭 Academic Service 
 - Reviewer for ICML, NeurIPS.
+- Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
 # 💻 Internships
 - *2021.05 - 2021.08*, Alibaba Inc, Beijing.
