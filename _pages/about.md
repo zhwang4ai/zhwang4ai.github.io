@@ -24,8 +24,8 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Our paper [DEPS](https://arxiv.org/pdf/2302.01560.pdf) has won the best paper award at ICML-23 TEACH Workshop.
-- *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023.
+- [Jul 2023]: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
+- [Feb 2023]: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023.
 
 # 📝 Publications 
 
