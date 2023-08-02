@@ -35,9 +35,9 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
 
-**Best Paper at ICML 2023 TEACH Workshop**
+<font color='red'> Best Paper Award, ICML 2023 TEACH Workshop </font>
 
-TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of open-world Minecraft for the first time.*
+<!--TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of open-world Minecraft for the first time.*-->
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
@@ -63,8 +63,6 @@ TLDR: *We propose a novel interactive planning approach using LLMs that brings a
 [Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
 
 [Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
-
-School of Intelligence Science and Technology, Peking University
 
 **CVPR 2023** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \| [Code](https://github.com/CraftJarvis/MC-Controller)
 
