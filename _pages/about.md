@@ -24,7 +24,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-
+- *2023.07*: &nbsp;🎉🎉 Our paper [DEPS](https://arxiv.org/pdf/2302.01560.pdf) has won the best paper award at ICML-23 TEACH Workshop.
 - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023.
 
 # 📝 Publications 
@@ -106,7 +106,7 @@ School of Intelligence Science and Technology, Peking University
 
 **Zihao Wang**, Zhen Li, Xueyi Li, Wenjie Chen, Xiangdong Liu
 
-**IEEE Trans. Neural Netw. Learn. Syst.** 
+**IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2022)** 
 
 </div>
 </div>
