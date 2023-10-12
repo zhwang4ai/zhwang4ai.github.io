@@ -111,14 +111,6 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 </div>
 </div>
 
-<!--
-- [Graph-Based Contrastive Learning for Description and Detection of Local Features](https://ieeexplore.ieee.org/abstract/document/9906927/)
-
-  **Zihao Wang**, Zhen Li, Xueyi Li, Wenjie Chen, Xiangdong Liu
-
-  **Trans. on Neural Networks and Learning Systems** \| [Paper](https://ieeexplore.ieee.org/abstract/document/9906927)
--->
-
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">IJCAI 2021</div><img src='images/papers/IJCAI21.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -145,7 +137,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 - *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence on "learning detection and description of local features".
 
 # 🔭 Academic Service 
-- Reviewer for ICML, NeurIPS.
+- Reviewer for ICML, NeurIPS, ICLR.
 - Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
 # 💻 Internships
