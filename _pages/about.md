@@ -24,10 +24,52 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-- Jul 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop! 
+- Sep 2023: &nbsp;🎉🎉 Our paper [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf) is accepted by Neural Information Processing Systems (NeurIPS) 2023.
+- Jul 2023: &nbsp;🎉🎉 Our paper [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop! 
 - Feb 2023: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023. 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08235.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[GROOT: Learning to Follow Instructions by Watching Gameplay Videos](https://craftjarvis-groot.github.io/)
+
+[Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**arXiv** \| [Project](https://craftjarvis-groot.github.io/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) 
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08367.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft](https://arxiv.org/pdf/2310.08367.pdf)
+
+[Haowei Lin](https://linhaowei1.github.io/), **Zihao Wang**, [Jianzhu Ma](https://majianzhu.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**arXiv** \| [Paper](https://arxiv.org/pdf/2310.08367.pdf) \| [Code](https://github.com/CraftJarvis/MCU) 
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">NeurIPS 2023</div><img src='images/papers/2308.11339.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339.pdf)
+
+<!--TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of open-world Minecraft for the first time.*-->
+
+Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang
+  
+**arXiv** \| [Project](https://pku-proagent.github.io/) \| [Paper](https://arxiv.org/pdf/2308.11339.pdf) \| [Code](https://github.com/PKU-Alignment/ProAgent) 
+
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div>
@@ -41,7 +83,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**NeurIPS 2023** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) 
+**NeurIPS 2023, ICMLW Best Paper** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) 
 
 </div>
 </div>
