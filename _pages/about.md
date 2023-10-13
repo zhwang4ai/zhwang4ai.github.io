@@ -81,7 +81,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**NeurIPS 2023, ICMLW Best Paper** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) 
+**NeurIPS 2023** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) 
 
 </div>
 </div>
