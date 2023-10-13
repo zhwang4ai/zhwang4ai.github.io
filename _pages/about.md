@@ -129,7 +129,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">IJCAI 2021</div><img src='images/papers/IJCAI21.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features](https://www.ijcai.org/proceedings/2021/0159.pdf)
+[<font size="4">Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features</font>](https://www.ijcai.org/proceedings/2021/0159.pdf)
 
 **Zihao Wang**, Xueyi Li, Zhen Li
 
