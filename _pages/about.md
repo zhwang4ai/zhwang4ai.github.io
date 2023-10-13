@@ -77,6 +77,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 
 TLDR: *This paper proposes "Describe, Explain, Plan and Select"(DEPS), an interactive planning approach based on Large Language Models (LLMs) that helps with better error correction from the feedback during the long-haul planning, while also bringing the sense of proximity via goal Selector, a learnable module that ranks parallel sub-goals based on the estimated steps of completion and improves the original plan accordingly.*
 
+
 <font color='red'> Best Paper Award, ICML 2023 TEACH Workshop </font>
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
