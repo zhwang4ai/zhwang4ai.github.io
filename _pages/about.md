@@ -34,7 +34,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08235.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="5">[GROOT: Learning to Follow Instructions by Watching Gameplay Videos](https://craftjarvis-groot.github.io/)</font>
+<font size="4">GROOT: Learning to Follow Instructions by Watching Gameplay Videos</font>
 
 [Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
@@ -47,7 +47,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08367.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft](https://arxiv.org/pdf/2310.08367.pdf)
+<font size="4">MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft</font>
 
 [Haowei Lin](https://linhaowei1.github.io/), **Zihao Wang**, [Jianzhu Ma](https://majianzhu.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
@@ -60,7 +60,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2308.11339.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339.pdf)
+<font size="4">ProAgent: Building Proactive Cooperative AI with Large Language Models</font>
 
 Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang
   
@@ -73,7 +73,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+<font size="4">Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</font>
 
 <font color='red'> Best Paper Award, ICML 2023 TEACH Workshop </font>
 
@@ -90,7 +90,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/2301.10034.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
+<font size="4">Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction</font>
 
 [Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
 
@@ -103,11 +103,11 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/CVPR23.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
+<font size="4">Learning Transformation-Predictive Representations for Detection and Description of Local Features</font>
 
 **Zihao Wang**, Chunxu Wu, Yifei Yang, Zhen Li
 
-**CVPR 2023** 
+**CVPR 2023** \| [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
 
 </div>
 </div>
@@ -116,11 +116,11 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">TNNLS</div><img src='images/papers/TNNLS22.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph-Based Contrastive Learning for Description and Detection of Local Features](https://ieeexplore.ieee.org/abstract/document/9906927/)
+<font size="4">Graph-Based Contrastive Learning for Description and Detection of Local Features</font>
 
 **Zihao Wang**, Zhen Li, Xueyi Li, Wenjie Chen, Xiangdong Liu
 
-**IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2022)** 
+**IEEE Trans. Neural Netw. Learn. Syst. (TNNLS 2022)** \| [Paper](https://ieeexplore.ieee.org/abstract/document/9906927/)
 
 </div>
 </div>
