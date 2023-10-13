@@ -57,12 +57,10 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">NeurIPS 2023</div><img src='images/papers/2308.11339.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2308.11339.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339.pdf)
-
-<!--TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of open-world Minecraft for the first time.*-->
 
 Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang
   
@@ -88,16 +86,6 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 </div>
 </div>
 
-<!-- 
-- [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
-
-  TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of Minecraft (an open-world environment) for the first time.*
-
-  **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
-
-  **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) 
--->
-
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/2301.10034.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -111,14 +99,6 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 </div>
 </div>
 
-<!--
-- [Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction](https://arxiv.org/pdf/2301.10034.pdf)
-
-  [Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
-
-  **CVPR 2023** \| [Paper](https://arxiv.org/pdf/2301.10034.pdf) \| [Code](https://github.com/CraftJarvis/MC-Controller)
--->
-
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/CVPR23.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -131,14 +111,6 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 
 </div>
 </div>
-
-<!--
-- [Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
-
-  **Zihao Wang**, Chunxu Wu, Yifei Yang, Zhen Li
-
-  **CVPR 2023** \| [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
--->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">TNNLS</div><img src='images/papers/TNNLS22.png' alt="sym" width="100%"></div>
