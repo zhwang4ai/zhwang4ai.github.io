@@ -34,9 +34,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08235.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[GROOT: Learning to Follow Instructions by Watching Gameplay Videos](https://craftjarvis-groot.github.io/)
-
-<a class="cl-paper-authors__author-box" href="/author/Xiaojian-Ma/121875989"><span class=""><span>Xiaojian Ma</span></span></a>
+[<font size="5">GROOT: Learning to Follow Instructions by Watching Gameplay Videos</font>](https://craftjarvis-groot.github.io/)
 
 [Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
