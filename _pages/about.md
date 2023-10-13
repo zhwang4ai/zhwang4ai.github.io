@@ -103,7 +103,9 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">CVPR 2023</div><img src='images/papers/CVPR23.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf" style="font-size: 2em;">Learning Transformation-Predictive Representations for Detection and Description of Local Features</a>
+[<font size="4">Learning Transformation-Predictive Representations for Detection and Description of Local Features</font>](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)
+
+<!--a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf" style="font-size: 2em;">Learning Transformation-Predictive Representations for Detection and Description of Local Features</a-->
 
 **Zihao Wang**, Chunxu Wu, Yifei Yang, Zhen Li
 
@@ -116,7 +118,9 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">TNNLS</div><img src='images/papers/TNNLS22.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9906927/" style="font-size: 2em;">Graph-Based Contrastive Learning for Description and Detection of Local Features</a>
+[<font size="4">Graph-Based Contrastive Learning for Description and Detection of Local Features</font>](https://ieeexplore.ieee.org/abstract/document/9906927/)
+
+<!--a href="https://ieeexplore.ieee.org/abstract/document/9906927/" style="font-size: 2em;">Graph-Based Contrastive Learning for Description and Detection of Local Features</a-->
 
 **Zihao Wang**, Zhen Li, Xueyi Li, Wenjie Chen, Xiangdong Liu
 
@@ -129,7 +133,9 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <div class='paper-box-image'><div class="badge">IJCAI 2021</div><img src='images/papers/IJCAI21.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://www.ijcai.org/proceedings/2021/0159.pdf" style="font-size: 2em;">Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features</a>
+[<font size="4">Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features</font>](https://www.ijcai.org/proceedings/2021/0159.pdf)
+
+<!--a href="https://www.ijcai.org/proceedings/2021/0159.pdf" style="font-size: 2em;">Local Representation is NOT Enough: Soft Point-wise Transformer for descriptor and Detector of Local Features</a-->
 
 
 **Zihao Wang**, Xueyi Li, Zhen Li
