@@ -36,6 +36,8 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 [GROOT: Learning to Follow Instructions by Watching Gameplay Videos](https://craftjarvis-groot.github.io/)
 
+<a class="cl-paper-authors__author-box" href="/author/Xiaojian-Ma/121875989"><span class=""><span>Xiaojian Ma</span></span></a>
+
 [Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
 **arXiv** \| [Project](https://craftjarvis-groot.github.io/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) 
