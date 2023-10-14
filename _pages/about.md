@@ -75,9 +75,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 
 <font size="4">Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</font>
 
-
-
-<font color='red'> Best Paper Award, ICML 2023 TEACH Workshop </font>
+<font color='red'> <br> Best Paper Award, ICML 2023 TEACH Workshop </font>
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
