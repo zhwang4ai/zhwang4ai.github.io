@@ -24,8 +24,9 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-- Sep 2023: &nbsp;🎉🎉 Our paper [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf) is accepted by Neural Information Processing Systems (NeurIPS) 2023.
-- Jul 2023: &nbsp;🎉🎉 Our paper [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop! 
+- Nov 2023: &nbsp;🎉🎉 JARVIS-1 is available at [url](https://craftjarvis-jarvis1.github.io/).
+- Sep 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
+- Jul 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop! 
 - Feb 2023: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023. 
 
 # 📝 Publications 
@@ -166,9 +167,12 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
   **IJCAI 2021** \| [Paper](https://www.ijcai.org/proceedings/2021/0159.pdf)
 -->
 
-# 💬 Invited Talks
+# 💬 Talks
+- *2023.11*, Invited talk at Peking University on "building autonomous agents in open-world"
+- *2023.07*， Invited talk at NVIDIA on "towards multi-task agents in open-world"
 - *2023.03*, Invited talk at City University of Hong Kong and The Hong Kong Polytechnic University on ["open-ended embodied agents with multi-task skills"](http://cccn.ee.cityu.edu.hk/webinar/)
-- *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence on "learning detection and description of local features".
+- *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence (BIGAI) on "learning detection and description of local features"
+- *2021.08*, Invited talk at Alibaba Inc on "learning detection and description of local features"
 
 # 🔭 Academic Service 
 - Reviewer for ICML, NeurIPS, ICLR.
