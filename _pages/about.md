@@ -31,6 +31,36 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 # 📝 Publications 
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2311.05997.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="4">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</font>
+
+**Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+
+[Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**arXiv** \| [Project](https://craftjarvis-jarvis1.github.io/) \| [Paper](https://arxiv.org/pdf/2311.05997.pdf) \| [Code](https://github.com/CraftJarvis/JARVIS1) \| [Twitter](https://twitter.com/jeasinema/status/1723900032653643796)
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="4">Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</font>
+
+<font color='red'> <br> Best Paper Award, ICML 2023 TEACH Workshop </font>
+
+**Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**NeurIPS 2023** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) \| [Twitter](https://twitter.com/jeasinema/status/1622428535897067521)
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08235.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,7 +68,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 [Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Project](https://craftjarvis-groot.github.io/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) 
+**arXiv** \| [Project](https://craftjarvis-groot.github.io/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) \| [Twitter](https://twitter.com/jeasinema/status/1712526192665047493)
 
 </div>
 </div>
@@ -65,21 +95,6 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang
   
 **arXiv** \| [Project](https://pku-proagent.github.io/) \| [Paper](https://arxiv.org/pdf/2308.11339.pdf) \| [Code](https://github.com/PKU-Alignment/ProAgent) 
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="4">Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</font>
-
-<font color='red'> <br> Best Paper Award, ICML 2023 TEACH Workshop </font>
-
-**Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
-  
-**NeurIPS 2023** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) 
 
 </div>
 </div>
