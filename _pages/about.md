@@ -38,9 +38,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 <!--font size="4">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</font-->
 **JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
 
-**Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
-
-[Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+*Zihao Wang*, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
 **arXiv** \| [Project](https://craftjarvis-jarvis1.github.io/) \| [Paper](https://arxiv.org/pdf/2311.05997.pdf) \| [Code](https://github.com/CraftJarvis/JARVIS1) \| [Twitter](https://twitter.com/jeasinema/status/1723900032653643796)
 
