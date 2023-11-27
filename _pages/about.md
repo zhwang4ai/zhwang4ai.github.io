@@ -35,7 +35,8 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2311.05997.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="4">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</font>
+<!--font size="4">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</font-->
+**JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
 
