@@ -24,7 +24,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 
 # 🔥 News
-- Nov 2023: &nbsp;🎉🎉 [JARVIS-1](https://craftjarvis.github.io/JARVIS-1) is available.
+<!-- - Nov 2023: &nbsp;🎉🎉 [JARVIS-1](https://craftjarvis.github.io/JARVIS-1). -->
 - Sep 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
 - Jul 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop! 
 - Feb 2023: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023. 
@@ -180,28 +180,27 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 -->
 
 # 💬 Talks
-- *2023.12*, Invited talk at BAAI on ["building autonmous agents in open world"](https://mp.weixin.qq.com/s/Cv8I2dzW-aI1c6aZSUFi-g)
-- *2023.11*, Invited talk at Peking University on ["building autonomous agents in open-ended environment"](https://mp.weixin.qq.com/s/ycrWF-4cUeh-pMCT0wO3uA)
-- *2023.07*， Invited talk at NVIDIA on "towards multi-task agents in open-world"
-- *2023.03*, Invited talk at City University of Hong Kong and The Hong Kong Polytechnic University on ["open-ended embodied agents with multi-task skills"](http://cccn.ee.cityu.edu.hk/webinar/)
-- *2022.08*, Invited talk at Beijing Institute of General Artificial Intelligence (BIGAI) on "learning detection and description of local features"
-- *2021.08*, Invited talk at Alibaba Inc on "learning detection and description of local features"
+- \[Dec 2023\] Invited Talks at [BAAI](https://mp.weixin.qq.com/s/Cv8I2dzW-aI1c6aZSUFi-g), [Peking University](https://mp.weixin.qq.com/s/ycrWF-4cUeh-pMCT0wO3uA) on "Building Autonmous Agents in Open World".
+- \[Jul 2023\] Invited Talk at NVIDIA on "Towards Multi-task Agents in Open World".
+- \[Mar 2023\] Invited Talk at [City University of Hong Kong](http://cccn.ee.cityu.edu.hk/webinar) and The Hong Kong Polytechnic University on "Open-Ended Embodied Agents with Multi-Task Skills".
+- \[Aug 2022*\] Invited Talk at Beijing Institute of General Artificial Intelligence (BIGAI) on "Learning Detection and Description of Local Features"
+<!-- - \[Aug 2021\], Invited Talk at Alibaba Inc on "Learning Detection and Description of Local Features" -->
 
 # 🔭 Academic Service 
 - Reviewer for ICML, NeurIPS, ICLR.
 - Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
 # 💻 Internships
-- *2021.05 - 2021.08*, Alibaba Inc, Beijing.
+- 2021.05 - 2021.08, Alibaba Inc, Beijing.
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2022.09 - now*, PhD student of Computer Science, Peking University
 - *2019.09 - 2022.06*, Master of Control Science and Technology, Beijing Institute of Technology 
-- *2015.09 - 2019.06*, Bachelor of Automation, Beijing Institute of Technology
+- *2015.09 - 2019.06*, Bachelor of Automation, Beijing Institute of Technology -->
 
 # 🎖 Honors and Awards
-- *2021.10* Chinese National Scholarship
-- *2019.06* Outstanding Graduate of Beijing
-- *2018.11* Autonomy Prize of Indoor Event on 10th International Micro Air Vehicle Competition and Conference, Melbourne.
-- *2018.08* First Prize on China National Robot Competition 2018.
-- *2018.04* Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
+- \[Oct 2021\] Chinese National Scholarship
+- \[Jun 2019\] Outstanding Graduate of Beijing
+- \[Nov 2018\] Autonomy Prize of Indoor Event on 10th International Micro Air Vehicle Competition and Conference, Melbourne.
+- \[Aug 2018\] First Prize on China National Robot Competition 2018.
+- \[Apr 2018\] Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
