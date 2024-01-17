@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Institute for Artificial Intelligence at Peking University (PKU), advised by [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/). 
+I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/). 
 Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology.
-I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning and decision making.  
-In particular, I am interested in leveraging large pre-trained *Foundation Models* to improve generalization of agent capabilities.
+I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning, and decision-making.  
+In particular, I am interested in building and leveraging large pre-trained *Foundation Models* to improve the generalization of agent capabilities.
 
 
 # 🔥 News
 <!-- - Nov 2023: &nbsp;🎉🎉 [JARVIS-1](https://craftjarvis.github.io/JARVIS-1). -->
+- Jan 2024: &nbsp;🎉🎉 [GROOT](https://craftjarvis.github.io/GROOT) is accepted by ICLR 2024 for spotlight presentation (top 5%).
+- Jan 2024: &nbsp;🎉🎉 [ProAgent](https://pku-proagent.github.io/) is accepted by AAAI 2024 for oral presentation.
 - Sep 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
 - Jul 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop! 
 - Feb 2023: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023. 
@@ -72,7 +74,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 [Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Project](https://craftjarvis-groot.github.io/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) \| [Twitter](https://twitter.com/jeasinema/status/1712526192665047493) \| [Media](https://mp.weixin.qq.com/s/IqIRxFYDpCi3_Iy1FUg9DQ)
+**ICLR 2024 (Spotlight)** \| [Project](https://craftjarvis.github.io/GROOT/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) \| [Twitter](https://twitter.com/jeasinema/status/1712526192665047493) \| [Media](https://mp.weixin.qq.com/s/IqIRxFYDpCi3_Iy1FUg9DQ)
 
 </div>
 </div>
@@ -100,7 +102,7 @@ In particular, I am interested in leveraging large pre-trained *Foundation Model
 
 Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang
   
-**AAAI 2024** \| [Project](https://pku-proagent.github.io/) \| [Paper](https://arxiv.org/pdf/2308.11339.pdf) \| [Code](https://github.com/PKU-Alignment/ProAgent) 
+**AAAI 2024 (Oral)** \| [Project](https://pku-proagent.github.io/) \| [Paper](https://arxiv.org/pdf/2308.11339.pdf) \| [Code](https://github.com/PKU-Alignment/ProAgent) 
 
 </div>
 </div>
