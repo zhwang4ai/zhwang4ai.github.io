@@ -34,6 +34,19 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 # 📝 Publications 
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2403.05313.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**
+
+**Zihao Wang**, [Anji Liu](https://liuanji.github.io/), [Haowei Lin](https://linhaowei1.github.io/), Jiaqi Li, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**arXiv** \| [Project](https://craftjarvis.github.io/RAT) \| [Demo](https://huggingface.co/spaces/jeasinema/RAT) \| [Paper](https://arxiv.org/pdf/2403.05313.pdf) \| [Code](https://github.com/CraftJarvis/RAT) \| [Twitter](https://x.com/AndyLin2001/status/1767075865127719101?s=20) 
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2311.05997.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,7 +55,7 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Project](https://craftjarvis-jarvis1.github.io/) \| [Paper](https://arxiv.org/pdf/2311.05997.pdf) \| [Code](https://github.com/CraftJarvis/JARVIS1) \| [Twitter](https://twitter.com/jeasinema/status/1723900032653643796) \| [Media](https://mp.weixin.qq.com/s/4SyX4QCdu9rBptRvOQIwXg)
+**arXiv** \| [Project](https://craftjarvis.github.io/JARVIS-1/) \| [Paper](https://arxiv.org/pdf/2311.05997.pdf) \| [Code](https://github.com/CraftJarvis/JARVIS1) \| [Twitter](https://twitter.com/jeasinema/status/1723900032653643796) \| [Media](https://mp.weixin.qq.com/s/4SyX4QCdu9rBptRvOQIwXg)
 
 </div>
 </div>
@@ -188,12 +201,17 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 - \[Aug 2022*\] Invited Talk at Beijing Institute of General Artificial Intelligence (BIGAI) on "Learning Detection and Description of Local Features"
 <!-- - \[Aug 2021\], Invited Talk at Alibaba Inc on "Learning Detection and Description of Local Features" -->
 
-# 🔭 Academic Service 
+<!-- # 🔭 Academic Service 
 - Reviewer for ICML, NeurIPS, ICLR.
 - Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
 # 💻 Internships
-- 2021.05 - 2021.08, Alibaba Inc, Beijing.
+- 2021.05 - 2021.08, Alibaba Inc, Beijing. -->
+
+# 🔭 Experience
+- Reviewer for ICML, NeurIPS, ICLR.
+- Intern in Alibaba Inc, Beijing, 2021.05 - 2021.08.
+- Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
 <!-- # 📖 Educations
 - *2022.09 - now*, PhD student of Computer Science, Peking University
@@ -204,5 +222,5 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 - \[Oct 2021\] Chinese National Scholarship
 - \[Jun 2019\] Outstanding Graduate of Beijing
 - \[Nov 2018\] Autonomy Prize of Indoor Event on 10th International Micro Air Vehicle Competition and Conference, Melbourne.
-- \[Aug 2018\] First Prize on China National Robot Competition 2018.
+<!-- - \[Aug 2018\] First Prize on China National Robot Competition 2018. -->
 - \[Apr 2018\] Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
