@@ -19,10 +19,9 @@ redirect_from:
 
 I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). 
 Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology.
-I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning, and decision-making.  
-In particular, I am interested in building and leveraging large pre-trained *Foundation Models* to improve the generalization of agent capabilities.
+I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning, and decision-making. In particular, I am interested in building and leveraging large pre-trained *Foundation Models* to improve the generalization of agent capabilities.
 
-Recently, we have developed a series of open-world multi-task agents, including [OmniJARVIS](https://omnijarvis.github.io/) (pretrained end-to-end Vision-Language-Action models with self-supervised quantified tokenizer), [JARVIS-1] (https://craftjarvis.github.io/JARVIS-1/)(self-improving with multimodal memory), [DEPS](https://github.com/CraftJarvis/MC-Planner) (interactive long-horizon planning agent), [RAT](https://craftjarvis.github.io/RAT) (tool-use agent with retrieval-augmented thought), [GROOT](https://craftjarvis.github.io/GROOT) (self-supervised vision-based multitask policy), and [ProAgent] (https://pku-proagent.github.io/)(collaborating agents).
+Recently, we have developed a series of open-world multi-task agents, including [OmniJARVIS](https://omnijarvis.github.io/) (pretrained end-to-end Vision-Language-Action models with self-supervised quantified tokenizer), [JARVIS-1](https://craftjarvis.github.io/JARVIS-1/) (self-improving with multimodal memory), [DEPS](https://github.com/CraftJarvis/MC-Planner) (interactive long-horizon planning agent), [RAT](https://craftjarvis.github.io/RAT) (tool-use agent with retrieval-augmented thought), [GROOT](https://craftjarvis.github.io/GROOT) (self-supervised vision-based multitask policy), and [ProAgent](https://pku-proagent.github.io/) (collaborating agents).
 
 
 # 🔥 News
