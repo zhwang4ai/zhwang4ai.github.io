@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/). 
+I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). 
 Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology.
 I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning, and decision-making.  
 In particular, I am interested in building and leveraging large pre-trained *Foundation Models* to improve the generalization of agent capabilities.
 
+Recently, we have developed a series of open-world multi-task agents, including [OmniJARVIS](https://omnijarvis.github.io/) (pretrained end-to-end Vision-Language-Action models with self-supervised quantified tokenizer), [JARVIS-1] (https://craftjarvis.github.io/JARVIS-1/)(self-improving with multimodal memory), [DEPS](https://github.com/CraftJarvis/MC-Planner) (interactive long-horizon planning agent), [RAT](https://craftjarvis.github.io/RAT) (tool-use agent with retrieval-augmented thought), [GROOT](https://craftjarvis.github.io/GROOT) (self-supervised vision-based multitask policy), and [ProAgent] (https://pku-proagent.github.io/)(collaborating agents).
+
 
 # 🔥 News
-<!-- - Nov 2023: &nbsp;🎉🎉 [JARVIS-1](https://craftjarvis.github.io/JARVIS-1). -->
+- Jun 2024: &nbsp;🎉🎉 [Rectified Scaling Law](https://rectified-scaling-law.github.io/) is accepted by ICML 2024.
 - Jan 2024: &nbsp;🎉🎉 [GROOT](https://craftjarvis.github.io/GROOT) is accepted by ICLR 2024 for spotlight presentation (top 5%).
 - Jan 2024: &nbsp;🎉🎉 [ProAgent](https://pku-proagent.github.io/) is accepted by AAAI 2024 for oral presentation.
 - Sep 2023: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
@@ -34,14 +36,31 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 # 📝 Publications 
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2407.00114.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**
+
+An end-to-end open-ended agent based on Vision-Language-Action (VLA) models with self-supervised behavior tokenizer, that can answer questions and follow instructions in open-world Minecraft.
+
+**Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Zhancun Mu](https://zhancunmu.owlstown.net/), [Haowei Lin](https://linhaowei1.github.io/), [Ceyao Zhang](https://scholar.google.com/citations?user=OadTFGMAAAAJ), [Xuejie Liu](https://scholar.google.com/citations?user=vxqpWKUAAAAJ), [Qing Li](https://scholar.google.com/citations?user=iwdFZBEAAAAJ), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**arXiv** \| [Project](https://omnijarvis.github.io/) \| [Paper](https://arxiv.org/pdf/2407.00114) \| [Twitter](https://x.com/jeasinema/status/1808346701205516395) 
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2403.05313.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**
 
+An agent with retrieval-augmented thought that can conduct code generation, math reasoning, embodied planning and open-ended question answering.
+
 **Zihao Wang**, [Anji Liu](https://liuanji.github.io/), [Haowei Lin](https://linhaowei1.github.io/), Jiaqi Li, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Project](https://craftjarvis.github.io/RAT) \| [Demo](https://huggingface.co/spaces/jeasinema/RAT) \| [Paper](https://arxiv.org/pdf/2403.05313.pdf) \| [Code](https://github.com/CraftJarvis/RAT) \| [Twitter](https://x.com/AndyLin2001/status/1767075865127719101?s=20) 
+**arXiv** \| [Project](https://craftjarvis.github.io/RAT) \| [Demo](https://huggingface.co/spaces/jeasinema/RAT) \| [Paper](https://arxiv.org/pdf/2403.05313.pdf) \| [Code](https://github.com/CraftJarvis/RAT) \| [Twitter](https://x.com/AndyLin2001/status/1767075865127719101) 
 
 </div>
 </div>
@@ -52,6 +71,8 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 
 <!--font size="4">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</font-->
 **JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models**
+
+A multi-task agent that can self-improve in open-ended Minecraft and accomplish up to 200+ tasks.
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
@@ -79,7 +100,7 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08235.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">ICLR 2024</div><img src='images/papers/2310.08235.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- <font size="4">GROOT: Learning to Follow Instructions by Watching Gameplay Videos</font> -->
@@ -93,6 +114,20 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 </div>
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/papers/2402.02314.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- <font size="4">MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft</font> -->
+**Selecting Large Language Model to Fine-tune via Rectified Scaling Law**
+
+[Haowei Lin](https://linhaowei1.github.io/), Baizhou Huang, [Haotian Ye](https://haotianye.com/), Qinyu Chen, **Zihao Wang**, [Sujian Li](https://pku-tangent.github.io/), [Jianzhu Ma](https://majianzhu.com/), [Xiaojun Wan](https://wanxiaojun.github.io/), [James Zou](https://www.james-zou.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**ICML 2024** \| [Project](https://rectified-scaling-law.github.io/) \| [Paper](https://arxiv.org/pdf/2402.02314) \| [Code](https://github.com/linhaowei1/Fine-tuning-Scaling-Law) 
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2310.08367.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,13 +136,13 @@ In particular, I am interested in building and leveraging large pre-trained *Fou
 
 [Haowei Lin](https://linhaowei1.github.io/), **Zihao Wang**, [Jianzhu Ma](https://majianzhu.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Paper](https://arxiv.org/pdf/2310.08367.pdf) \| [Code](https://github.com/CraftJarvis/MCU) 
+**NeurIPSW 2024** \| [Paper](https://arxiv.org/pdf/2310.08367.pdf) \| [Code](https://github.com/CraftJarvis/MCU) 
 
 </div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2308.11339.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">AAAI 2024</div><img src='images/papers/2308.11339.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- <font size="4">ProAgent: Building Proactive Cooperative AI with Large Language Models</font> -->
@@ -209,7 +244,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 - 2021.05 - 2021.08, Alibaba Inc, Beijing. -->
 
 # 🔭 Experience
-- Reviewer for ICML, NeurIPS, ICLR.
+- Reviewer for ICML, NeurIPS, ICLR, ECCV.
 - Intern in Alibaba Inc, Beijing, 2021.05 - 2021.08.
 - Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
@@ -219,6 +254,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 - *2015.09 - 2019.06*, Bachelor of Automation, Beijing Institute of Technology -->
 
 # 🎖 Honors and Awards
+- \[Jul 2023\] Best Paper Award, ICML 2023 TEACH Workshop
 - \[Oct 2021\] Chinese National Scholarship
 - \[Jun 2019\] Outstanding Graduate of Beijing
 - \[Nov 2018\] Autonomy Prize of Indoor Event on 10th International Micro Air Vehicle Competition and Conference, Melbourne.
