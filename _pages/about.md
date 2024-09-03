@@ -25,6 +25,7 @@ Recently, we have developed a series of open-world multi-task agents, including 
 
 
 # 🔥 News
+- Aug 2024: &nbsp;📢📢 We will organize the 1st [Open-world Agent Workshop](https://sites.google.com/view/open-world-agents/) in NeurIPS 2024 (Vancouver, BC, Canada). [Calling for papers](https://sites.google.com/view/open-world-agents/call-for-papers?authuser=0) NOW! 🔥🔥🔥
 - Jun 2024: &nbsp;🎉🎉 [Rectified Scaling Law](https://rectified-scaling-law.github.io/) is accepted by ICML 2024.
 - Jan 2024: &nbsp;🎉🎉 [GROOT](https://craftjarvis.github.io/GROOT) is accepted by ICLR 2024 for spotlight presentation (top 5%).
 - Jan 2024: &nbsp;🎉🎉 [ProAgent](https://pku-proagent.github.io/) is accepted by AAAI 2024 for oral presentation.
@@ -243,7 +244,8 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 - 2021.05 - 2021.08, Alibaba Inc, Beijing. -->
 
 # 🔭 Experience
-- Reviewer for ICML, NeurIPS, ICLR, ECCV.
+- Organizer for 1st [Open-world Agent Workshop](https://sites.google.com/view/open-world-agents/) in NeurIPS 2024.
+- Reviewer for ICML, NeurIPS, ICLR, ECCV, AAAI.
 - Intern in Alibaba Inc, Beijing, 2021.05 - 2021.08.
 - Teaching Assistant for "Introduction to AI" Fall 2023, Peking University.
 
