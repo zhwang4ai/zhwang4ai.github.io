@@ -25,6 +25,7 @@ Recently, we have developed a series of open-world multi-task agents, including 
 
 
 # 🔥 News
+- Sep 2024: &nbsp;🎉🎉 Our latest Vision-Language-Action models [OmniJARVIS](https://omnijarvis.github.io) is accepted by NeurIPS 2024.
 - Aug 2024: &nbsp;📢📢 We will organize the 1st [Open-world Agent Workshop](https://sites.google.com/view/open-world-agents/) in NeurIPS 2024 (Vancouver, BC, Canada). [Calling for papers](https://sites.google.com/view/open-world-agents/call-for-papers?authuser=0) NOW! 🔥🔥🔥
 - Jun 2024: &nbsp;🎉🎉 [Rectified Scaling Law](https://rectified-scaling-law.github.io/) is accepted by ICML 2024.
 - Jan 2024: &nbsp;🎉🎉 [GROOT](https://craftjarvis.github.io/GROOT) is accepted by ICLR 2024 for spotlight presentation (top 5%).
@@ -36,7 +37,7 @@ Recently, we have developed a series of open-world multi-task agents, including 
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2407.00114.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/papers/2407.00114.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**
@@ -45,7 +46,7 @@ An end-to-end open-ended agent based on Vision-Language-Action (VLA) models with
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Zhancun Mu](https://zhancunmu.owlstown.net/), [Haowei Lin](https://linhaowei1.github.io/), [Ceyao Zhang](https://scholar.google.com/citations?user=OadTFGMAAAAJ), [Xuejie Liu](https://scholar.google.com/citations?user=vxqpWKUAAAAJ), [Qing Li](https://scholar.google.com/citations?user=iwdFZBEAAAAJ), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Project](https://omnijarvis.github.io/) \| [Paper](https://arxiv.org/pdf/2407.00114) \| [Twitter](https://x.com/jeasinema/status/1808346701205516395) 
+**NeurIPS 2024** \| [Project](https://omnijarvis.github.io/) \| [Paper](https://arxiv.org/pdf/2407.00114) \| [Twitter](https://x.com/jeasinema/status/1808346701205516395) 
 
 </div>
 </div>
