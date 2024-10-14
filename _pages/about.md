@@ -77,7 +77,7 @@ A multi-task agent that can self-improve in open-ended Minecraft and accomplish 
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**arXiv** \| [Project](https://craftjarvis.github.io/JARVIS-1/) \| [Paper](https://arxiv.org/pdf/2311.05997.pdf) \| [Code](https://github.com/CraftJarvis/JARVIS1) \| [Twitter](https://twitter.com/jeasinema/status/1723900032653643796) \| [Media](https://mp.weixin.qq.com/s/4SyX4QCdu9rBptRvOQIwXg)
+**arXiv** \| [Project](https://craftjarvis.github.io/JARVIS-1/) \| [Paper](https://arxiv.org/pdf/2311.05997.pdf) \| [Code](https://github.com/CraftJarvis/JARVIS1) ![Stars](https://img.shields.io/github/stars/CraftJarvis/JARVIS1) \| [Twitter](https://twitter.com/jeasinema/status/1723900032653643796) \| [Media](https://mp.weixin.qq.com/s/4SyX4QCdu9rBptRvOQIwXg)
 
 </div>
 </div>
@@ -95,7 +95,7 @@ A multi-task agent that can self-improve in open-ended Minecraft and accomplish 
 
 **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**NeurIPS 2023** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) \| [Twitter](https://twitter.com/jeasinema/status/1622428535897067521)
+**NeurIPS 2023** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner) ![Stars](https://img.shields.io/github/stars/CraftJarvis/MC-Planner) \| [Twitter](https://twitter.com/jeasinema/status/1622428535897067521)
 
 </div>
 </div>
@@ -109,7 +109,7 @@ A multi-task agent that can self-improve in open-ended Minecraft and accomplish 
 
 [Shaofei Cai](https://phython96.github.io/), Bowei Zhang, **Zihao Wang**, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**ICLR 2024 (Spotlight)** \| [Project](https://craftjarvis.github.io/GROOT/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) \| [Twitter](https://twitter.com/jeasinema/status/1712526192665047493) \| [Media](https://mp.weixin.qq.com/s/IqIRxFYDpCi3_Iy1FUg9DQ)
+**ICLR 2024 (Spotlight)** \| [Project](https://craftjarvis.github.io/GROOT/) \| [Paper](https://arxiv.org/pdf/2310.08235.pdf) \| [Code](https://github.com/CraftJarvis/GROOT) ![Stars](https://img.shields.io/github/stars/CraftJarvis/GROOT) \| [Twitter](https://twitter.com/jeasinema/status/1712526192665047493) \| [Media](https://mp.weixin.qq.com/s/IqIRxFYDpCi3_Iy1FUg9DQ)
 
 </div>
 </div>
@@ -123,7 +123,7 @@ A multi-task agent that can self-improve in open-ended Minecraft and accomplish 
 
 [Haowei Lin](https://linhaowei1.github.io/), Baizhou Huang, [Haotian Ye](https://haotianye.com/), Qinyu Chen, **Zihao Wang**, [Sujian Li](https://pku-tangent.github.io/), [Jianzhu Ma](https://majianzhu.com/), [Xiaojun Wan](https://wanxiaojun.github.io/), [James Zou](https://www.james-zou.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**ICML 2024** \| [Project](https://rectified-scaling-law.github.io/) \| [Paper](https://arxiv.org/pdf/2402.02314) \| [Code](https://github.com/linhaowei1/Fine-tuning-Scaling-Law) 
+**ICML 2024** \| [Project](https://rectified-scaling-law.github.io/) \| [Paper](https://arxiv.org/pdf/2402.02314) \| [Code](https://github.com/linhaowei1/Fine-tuning-Scaling-Law) ![Stars](https://img.shields.io/github/stars/linhaowei1/Fine-tuning-Scaling-Law)
 
 </div>
 </div>
@@ -137,7 +137,7 @@ A multi-task agent that can self-improve in open-ended Minecraft and accomplish 
 
 [Haowei Lin](https://linhaowei1.github.io/), **Zihao Wang**, [Jianzhu Ma](https://majianzhu.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**NeurIPSW 2024** \| [Paper](https://arxiv.org/pdf/2310.08367.pdf) \| [Code](https://github.com/CraftJarvis/MCU) 
+**NeurIPSW 2024** \| [Paper](https://arxiv.org/pdf/2310.08367.pdf) \| [Code](https://github.com/CraftJarvis/MCU)
 
 </div>
 </div>
