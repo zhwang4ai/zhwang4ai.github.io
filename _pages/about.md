@@ -59,9 +59,9 @@ An end-to-end open-ended agent based on Vision-Language-Action (VLA) models with
 
 An agent with retrieval-augmented thought that can conduct code generation, math reasoning, embodied planning and open-ended question answering.
 
-**Zihao Wang**, [Anji Liu](https://liuanji.github.io/), [Haowei Lin](https://linhaowei1.github.io/), Jiaqi Li, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
-  
-**arXiv** \| [Project](https://craftjarvis.github.io/RAT) \| [Demo](https://huggingface.co/spaces/jeasinema/RAT) \| [Paper](https://arxiv.org/pdf/2403.05313.pdf) \| [Code](https://github.com/CraftJarvis/RAT) \| [Twitter](https://x.com/AndyLin2001/status/1767075865127719101) 
+**Zihao Wang**, [Anji Liu](https://liuanji.github.io/), [Haowei Lin](https://linhaowei1.github.io/), Jiaqi Li, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/) 
+
+**arXiv** \| [Project](https://craftjarvis.github.io/RAT) \| [Demo](https://huggingface.co/spaces/jeasinema/RAT) \| [Paper](https://arxiv.org/pdf/2403.05313.pdf) \| [Code](https://github.com/CraftJarvis/RAT) ![Stars](https://img.shields.io/github/stars/CraftJarvis/RAT)  \| [Twitter](https://x.com/AndyLin2001/status/1767075865127719101) 
 
 </div>
 </div>
