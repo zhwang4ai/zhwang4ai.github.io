@@ -123,7 +123,7 @@ A multi-task agent that can self-improve in open-ended Minecraft and accomplish 
 
 [Haowei Lin](https://linhaowei1.github.io/), Baizhou Huang, [Haotian Ye](https://haotianye.com/), Qinyu Chen, **Zihao Wang**, [Sujian Li](https://pku-tangent.github.io/), [Jianzhu Ma](https://majianzhu.com/), [Xiaojun Wan](https://wanxiaojun.github.io/), [James Zou](https://www.james-zou.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
   
-**ICML 2024** \| [Project](https://rectified-scaling-law.github.io/) \| [Paper](https://arxiv.org/pdf/2402.02314) \| [Code](https://github.com/linhaowei1/Fine-tuning-Scaling-Law) ![Stars](https://img.shields.io/github/stars/linhaowei1/Fine-tuning-Scaling-Law)
+**ICML 2024** \| [Project](https://rectified-scaling-law.github.io/) \| [Paper](https://arxiv.org/pdf/2402.02314) \| [Code](https://github.com/linhaowei1/Fine-tuning-Scaling-Law)
 
 </div>
 </div>
@@ -263,5 +263,5 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 <!-- - \[Aug 2018\] First Prize on China National Robot Competition 2018. -->
 - \[Apr 2018\] Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ&cl=ffffff"></script>
-<!-- <a href="https://mapmyvisitors.com/web/1bwh5"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ&cl=ffffff" /></a> -->
+<!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ&cl=ffffff"></script> -->
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=253&t=tt&d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ'></script>
