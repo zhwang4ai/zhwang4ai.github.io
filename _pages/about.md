@@ -264,7 +264,7 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, **Zihao Wang**, Guanghe Li, Yihang Sun, Cheng
 - \[Apr 2018\] Meritorious Winner on American Mathematical Contest In Modeling (MCM) 2018. 
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ&cl=ffffff"></script> -->
-<!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=tt&d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ'></script> -->
-<div class="map-container">
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=tt&d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ'></script>
+<!-- <div class="map-container">
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=tt&d=UJBYdgegzLzkryfsrtSixCL88QA4Ou45fA4KJJOQjMQ'></script>
-</div>
+</div> -->
