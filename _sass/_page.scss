@@ -410,3 +410,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.map-container {
+  position: fixed; /* Position relative to the viewport */
+  right: 10px; /* Distance from the right edge */
+  bottom: 10px; /* Distance from the bottom */
+  z-index: 1000; /* Ensures it's above other elements */
+}
