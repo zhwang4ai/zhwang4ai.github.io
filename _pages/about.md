@@ -37,6 +37,19 @@ Recently, we have developed a series of open-world multi-task agents, including 
 # 📝 Publications 
 
 <div class='paper-box'>
+<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2410.17856.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**
+
+[Shaofei Cai](https://phython96.github.io/), **Zihao Wang**, Kewei Lian, [Zhancun Mu](https://zhancunmu.owlstown.net/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://liuanji.github.io/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  
+**arXiv** \| [Project](https://craftjarvis.github.io/ROCKET-1) \| [Paper](https://arxiv.org/pdf/2410.17856) \| [Code](https://github.com/CraftJarvis/ROCKET-1)
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/papers/2407.00114.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
