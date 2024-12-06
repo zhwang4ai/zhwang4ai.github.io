@@ -25,6 +25,7 @@ Recently, we have developed a series of open-world multi-task agents, including 
 
 
 # 🔥 News
+- Dec 2024: &nbsp;🎉🎉 [JARVIS-1](https://craftjarvis.github.io/JARVIS-1) is accepted by T-PAMI.
 - Sep 2024: &nbsp;🎉🎉 Our latest Vision-Language-Action models [OmniJARVIS](https://omnijarvis.github.io) is accepted by NeurIPS 2024.
 - Aug 2024: &nbsp;📢📢 We will organize the 1st [Open-world Agent Workshop](https://sites.google.com/view/open-world-agents/) in NeurIPS 2024 (Vancouver, BC, Canada). [Calling for papers](https://sites.google.com/view/open-world-agents/call-for-papers?authuser=0) NOW! 🔥🔥
 - Jun 2024: &nbsp;🎉🎉 [Rectified Scaling Law](https://rectified-scaling-law.github.io/) is accepted by ICML 2024.
@@ -80,7 +81,7 @@ An agent with retrieval-augmented thought that can conduct code generation, math
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">arXiv</div><img src='images/papers/2311.05997.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div class="badge">T-PAMI</div><img src='images/papers/2311.05997.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 <!--font size="4">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</font-->
