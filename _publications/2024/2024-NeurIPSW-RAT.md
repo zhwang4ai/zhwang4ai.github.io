@@ -12,7 +12,7 @@ abstract: >-
   An agent with retrieval-augmented thought that can conduct code generation, math reasoning, embodied planning and open-ended question answering.
 cover:          /assets/images/covers/2403.05313.png
 authors:
-  - Your Name
+  - Zihao Wang
   - Anji Liu
   - Haowei Lin
   - Jiaqi Li

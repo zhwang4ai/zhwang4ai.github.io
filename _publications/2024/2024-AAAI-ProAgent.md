@@ -15,7 +15,7 @@ authors:
   - Ceyao Zhang
   - Kaijie Yang
   - Siyi Hu
-  - Your Name
+  - Zihao Wang
   - Guanghe Li
   - Yihang Sun
   - Cheng Zhang

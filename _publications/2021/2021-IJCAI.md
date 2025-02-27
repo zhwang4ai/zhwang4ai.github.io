@@ -8,7 +8,7 @@ abstract: >-
   A novel Soft Point-Wise Transformer for Descriptor and Detector, simultaneously mining long-range intrinsic and cross-scale dependencies of local features, which outperforms the existing state-of-the-art methods on the image matching and visual localization benchmarks.
 cover:          /assets/images/covers/IJCAI21.png
 authors:
-- Your Name
+- Zihao Wang
 - Xueyi Li
 - Zhen Li
 links:

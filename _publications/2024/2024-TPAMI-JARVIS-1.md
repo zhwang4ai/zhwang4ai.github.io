@@ -12,7 +12,7 @@ abstract: >-
   A multi-task agent that can self-improve in open-ended Minecraft and accomplish up to 200+ tasks.
 cover:          /assets/images/covers/2311.05997.png
 authors:
-  - Your Name
+  - Zihao Wang
   - Shaofei Cai
   - Anji Liu
   - Yonggang Jin

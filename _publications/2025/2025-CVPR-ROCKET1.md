@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/2410.17856.png
 authors:
   - Shaofei Cai
-  - Your Name
+  - Zihao Wang
   - Kewei Lian
   - Zhancun Mu
   - Xiaojian Ma

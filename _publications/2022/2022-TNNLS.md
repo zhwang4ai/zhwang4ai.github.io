@@ -8,7 +8,7 @@ abstract: >-
   A self-supervised graph-based contrastive learning framework to train the model for local features, GCLFeat, which outperforms the state-of-the-art supervised baselines on diverse downstream benchmarks including image matching, 3-D reconstruction and visual localization.
 cover:          /assets/images/covers/TNNLS22.png
 authors:
-- Your Name
+- Zihao Wang
 - Zhen Li
 - Xueyi Li
 - Wenjie Chen

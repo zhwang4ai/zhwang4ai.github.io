@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/2310.08367.png
 authors:
   - Haowei Lin
-  - Your Name
+  - Zihao Wang
   - Jianzhu Ma
   - Yitao Liang
 links:

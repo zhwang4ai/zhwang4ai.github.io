@@ -14,7 +14,7 @@ cover:          /assets/images/covers/2310.08235.png
 authors:
   - Shaofei Cai*
   - Bowei Zhang*
-  - Your Name
+  - Zihao Wang
   - Xiaojian Ma
   - Anji Liu
   - Yitao Liang

@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/2301.10034.png
 authors:
   - Shaofei Cai
-  - Your Name
+  - Zihao Wang
   - Xiaojian Ma
   - Anji Liu
   - Yitao Liang

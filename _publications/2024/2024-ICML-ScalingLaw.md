@@ -16,7 +16,7 @@ authors:
   - Baizhou Huang
   - Haotian Ye
   - Qinyu Chen
-  - Your Name 
+  - Zihao Wang 
   - Sujian Li
   - Jianzhu Ma
   - Xiaojun Wan

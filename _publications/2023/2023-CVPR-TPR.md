@@ -9,7 +9,7 @@ abstract: >-
 
 cover:          /assets/images/covers/CVPR2023.png
 authors:
-  - Your Name
+  - Zihao Wang
   - Chunxu Wu
   - Yifei Yang
   - Zhen Li
