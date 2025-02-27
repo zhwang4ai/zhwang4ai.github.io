@@ -53,6 +53,9 @@ experience:
   # logo: /assets/images/badges/PKU_red.png
   position: Reviewer 
   date: 2021 - present
+- name: Alibaba Inc.
+  position: Research Intern
+  date: May. 2021 - Aug. 2021
 
 awards:
 - name: Best Paper Award, ICML 2023 TEACH Workshop
