@@ -36,25 +36,29 @@ education:
 - name: 
   logo: /assets/images/badges/PKU_red.png
   position: >- 
-    Institute for Artificial Intelligence <br/>
-    Ph.D. Student
+    Institute for Artificial Intelligence <br />
+    Ph.D. Candidate 
   date: Sep. 2022 - present
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/BIT_Green.png
-  position: M.S. in Automation
+  position: >- 
+    School of Automation <br />
+    M.S. in Control Science and Technology
   date: Sep. 2019 - Jul. 2022
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/BIT_Green.png
-  position: B.S. in Automation
+  position: >- 
+    School of Automation <br />
+    B.Eng. in Automation
   date: Sep. 2015 - Jul. 2019
 
 experience:
-- name: ICML, NeurIPS, ICLR, ECCV, AAAI.
+- name: Reviewer
   # logo: /assets/images/badges/PKU_red.png
-  position: Reviewer 
+  position: ICML, NeurIPS, ICLR, ECCV, AAAI.
   date: 2021 - present
-- name: Alibaba Inc.
-  position: Research Intern
+- name: Research Intern
+  position: Alibaba Inc.
   date: May. 2021 - Aug. 2021
 
 awards:
