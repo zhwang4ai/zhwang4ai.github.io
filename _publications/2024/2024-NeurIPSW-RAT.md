@@ -4,7 +4,7 @@ date:           2024-11-01 00:01:00 +0800
 selected:       true
 pub:            "NeurIPS"
 # pub_pre:        "Submitted to "
-pub_post:       'Workshop'
+pub_post:       ' Workshop'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Best Paper Award, ICML 2023 TEACH Workshop</span>'
 pub_date:       "2024"
 

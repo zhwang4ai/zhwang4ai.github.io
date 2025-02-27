@@ -1,6 +1,6 @@
 ---
 title:          "Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction"
-date:           2023-01-2 00:01:00 +0800
+date:           2023-01-3 00:01:00 +0800
 selected:       false
 pub:            "CVPR"
 # pub_pre:        "Submitted to "

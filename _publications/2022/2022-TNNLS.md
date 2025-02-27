@@ -1,6 +1,6 @@
 ---
 title:          "Graph-Based Contrastive Learning for Description and Detection of Local Features"
-date:           2022-01-01 00:01:00 +0800
+date:           2022-01-02 00:01:00 +0800
 selected:       false
 pub:            "TNNLS"
 pub_date:       "2022"

@@ -4,7 +4,7 @@ date:           2023-10-01 00:01:00 +0800
 selected:       false
 pub:            "NeurIPS"
 # pub_pre:        "Submitted to "
-pub_post:       'Workshop'
+pub_post:       ' Workshop'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2023"
 

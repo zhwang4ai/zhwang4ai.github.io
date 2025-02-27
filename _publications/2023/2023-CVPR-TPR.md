@@ -1,6 +1,6 @@
 ---
 title:          "Learning Transformation-Predictive Representations for Detection and Description of Local Features"
-date:           2023-01-01 00:01:00 +0800
+date:           2023-01-02 00:01:00 +0800
 selected:       false
 pub:            "CVPR"
 pub_date:       "2023"
