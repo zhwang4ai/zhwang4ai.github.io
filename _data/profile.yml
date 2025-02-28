@@ -28,7 +28,7 @@ short_bio: >-
     Recently, we have developed a series of open-world multi-task agents, including OmniJARVIS (pretrained end-to-end Vision-Language-Action models with self-supervised quantified tokenizer), JARVIS-1 (self-improving with multimodal memory), DEPS (interactive long-horizon planning agent), RAT (tool-use agent with retrieval-augmented thought), GROOT (self-supervised vision-based multitask policy), and ProAgent (collaborating agents).
   </p>
 
-portrait_url: /assets/images/photos/android-chrome-512x512.png
+portrait_url: /assets/images/photos/ZihaoWang.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
