@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   An end-to-end open-ended agent based on Vision-Language-Action (VLA) models with self-supervised behavior tokenizer, that can answer questions and follow instructions in open-world Minecraft.
-cover:          /assets/images/covers/2403.05313.png
+cover:          /assets/images/covers/2407.00114.png
 authors:
   - Zihao Wang
   - Shaofei Cai

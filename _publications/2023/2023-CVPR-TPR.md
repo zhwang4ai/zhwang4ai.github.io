@@ -7,7 +7,7 @@ pub_date:       "2023"
 abstract: >-
   The task of key-points detection and description is to estimate the stable location and discriminative representation of local features, which is a fundamental task in visual applications and this work proposes to learn the transformation-predictive representations with self-supervised contrastive learning.
 
-cover:          /assets/images/covers/CVPR2023.png
+cover:          /assets/images/covers/CVPR23.png
 authors:
   - Zihao Wang
   - Chunxu Wu
