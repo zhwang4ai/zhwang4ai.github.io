@@ -32,7 +32,7 @@ jobs:
         git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
         # Set the remote repo URL using the secret token
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.PAT_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
 
         # Add and commit changes
         git add *.json
