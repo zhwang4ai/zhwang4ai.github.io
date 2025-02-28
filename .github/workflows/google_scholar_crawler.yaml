@@ -8,15 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Ensure the bot has write permissions
+
     steps:
     - uses: actions/checkout@v2
 
-    # Install required dependencies
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
 
-    # Run the script to fetch citation data
     - name: Run
       run: |
         cd ./google_scholar_crawler
@@ -27,7 +29,7 @@ jobs:
         # Initialize git repository and set user config
         git init
         git config --local user.name "${GITHUB_ACTOR}"
-        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"  # Using GitHub's no-reply email
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
         # Set the remote repo URL using the secret token
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
