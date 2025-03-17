@@ -4,12 +4,12 @@ navbar_name: "Zihao Wang"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Final-year PhD student at Peking University.
+  name: PhD student at Peking University.
 # - name: Final-year PhD student at Peking University.
 
 
 email: "zhwang@stu.pku.edu.cn"
-# cv_link: link-to-your-cv-file
+cv_link: /assets/pdfs/English_CV_ZihaoWang.pdf
 gscholar: I0D-EgQAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhwang4ai
 twitter: RealZihaoWang  # Do not include the '@' symbol
@@ -22,10 +22,10 @@ twitter: RealZihaoWang  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Yitao Liang</a>. Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology. I work on building open-ended embodied agents with multi-task skills, including visual localization, task planning, and decision-making. In particular, I am interested in building and leveraging large pre-trained Foundation Models to improve the generalization of agent capabilities.
+    I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Yitao Liang</a>. Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology. I work on building open-ended embodied agents with multi-task skills in 3d games, including visual localization, task planning, and decision-making. In particular, I am interested in building and leveraging large pre-trained Foundation Models to improve the generalization of agent capabilities.
   </p>
   <p>
-    Recently, we have developed a series of open-world multi-task agents, including OmniJARVIS (pretrained end-to-end Vision-Language-Action models with self-supervised quantified tokenizer), JARVIS-1 (self-improving with multimodal memory), DEPS (interactive long-horizon planning agent), RAT (tool-use agent with retrieval-augmented thought), GROOT (self-supervised vision-based multitask policy), and ProAgent (collaborating agents).
+    Recently, we have developed a series of open-world multi-task agents, including OmniJARVIS (pretrained hierarchical Vision-Language-Action models with self-supervised quantified tokenizer and latent space), JARVIS-1 (self-improving agent with multimodal memory), DEPS (interactive long-horizon planning agent), RAT (open deep research agent), GROOT (self-supervised latent space multi-task policy), and ProAgent (collaborating llm-based game agents).
   </p>
 
 portrait_url: /assets/images/photos/ZihaoWang.jpg
