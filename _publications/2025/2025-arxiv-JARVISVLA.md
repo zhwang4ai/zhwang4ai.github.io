@@ -1,5 +1,5 @@
 ---
-title:          "Open-World Skill Discovery from Unsegmented Demonstrations"
+title:          "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse"
 date:           2025-03-21 00:01:00 +0800
 selected:       true
 pub:            "arXiv"
