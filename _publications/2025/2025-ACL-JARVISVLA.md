@@ -2,7 +2,7 @@
 title:          "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse"
 date:           2025-03-21 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
+pub:            "ACL Findings"
 # pub_pre:        "Submitted to "
 # pub_post:       'Workshop'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
