@@ -22,11 +22,21 @@ twitter: RealZihaoWang  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Yitao Liang</a>. Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology. I work on building open-ended embodied agents with multi-task skills in 3d games, including visual localization, task planning, and decision-making. In particular, I am interested in building and leveraging large pre-trained Foundation Models to improve the generalization of agent capabilities.
+    I am a Ph.D. student in the Institute for Artificial Intelligence at Peking University (PKU), advised by <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Yitao Liang</a>. I also work closely with <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Dr. Xiaojian Ma</a> and <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Anji Liu</a>. Before joining PKU, I received my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology. I work on building open-ended embodied agents with multi-task skills in 3d games, including visual localization, task planning, and decision-making. In particular, I am interested in building and leveraging large pre-trained Foundation Models to improve the generalization of agent capabilities.
   </p>
   <p>
-    Recently, we have developed a series of open-world multi-task agents, including OmniJARVIS (pretrained hierarchical Vision-Language-Action models with self-supervised quantified tokenizer and latent space), JARVIS-1 (self-improving agent with multimodal memory), DEPS (interactive long-horizon planning agent), RAT (open deep research agent), GROOT (self-supervised latent space multi-task policy), and ProAgent (collaborating llm-based game agents).
+    My works can be categorized into three parts:
+    <ul>
+      <li>
+        Agentic Workflow: <a href="https://arxiv.org/pdf/2302.01560.pdf" target="_blank">DEPS (Planning Agent)</a>, <a href="https://craftjarvis.github.io/JARVIS-1/" target="_blank">JARVIS-1 (Self-improving Agent with Multimodal Memory)</a>, <a href="https://craftjarvis.github.io/RAT" target="_blank">RAT (Open Deep Research Agent)</a>, <a href="https://craftjarvis.github.io/ROCKET-1" target="_blank">ROCKET-1 (Embodied Agent with GUI action space)</a>, <a href="https://pku-proagent.github.io/" target="_blank">ProAgent (Collaborating LLM-based Game Agents)</a>, etc.
+      </li>
+      <li>
+        Agentic Foundation Models: <a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS (Hierrachical VLA with Latent Action Space)</a>, <a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA (Vision-Language-Action Model in Open World)</a>, etc.
+      </li>
   </p>
+  # <p>
+  #   Recently, we have developed a series of open-world multi-task agents, including OmniJARVIS (pretrained hierarchical Vision-Language-Action models with self-supervised quantified tokenizer and latent space), JARVIS-1 (self-improving agent with multimodal memory), DEPS (interactive long-horizon planning agent), RAT (open deep research agent), GROOT (self-supervised latent space multi-task policy), and ProAgent (collaborating llm-based game agents).
+  # </p>
 
 portrait_url: /assets/images/photos/ZihaoWang.jpg
 # portrait_caption: >-
