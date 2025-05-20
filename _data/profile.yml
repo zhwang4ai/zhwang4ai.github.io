@@ -25,29 +25,22 @@ short_bio: >-
     I'm a Ph.D. student at the Institute for Artificial Intelligence, Peking University (PKU), advised by <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Yitao Liang</a>. I also collaborate closely with <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Dr. Xiaojian Ma</a> and <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ" target="_blank">Prof. Anji Liu</a>. Before joining PKU, I earned my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology.
   </p>
   <p>
-    My research centers on building **open-ended generalist agents**, including computer-use agents, embodied game agents, and multi-task agents. My core interest lies in leveraging large pre-trained **Foundation Models** to significantly enhance agent generalization capabilities.
-  </p>
-  <p>
-    My research contributions fall into two main categories:
+    My research centers on building **open-ended generalist agents**, including computer-use agents, embodied game agents, and MCP-based agents. My core interest lies in building and leveraging large pre-trained **Foundation Models** (LLMs, VLMs, VLA) to significantly enhance agent generalization capabilities. My research contributions fall into two main categories: 
     <ul>
       <li>
-        <strong>Agentic Workflow</strong>: This area focuses on developing intelligent workflows for agents to perform complex tasks.
-        <ul>
-          <li><a href="https://arxiv.org/pdf/2302.01560.pdf" target="_blank">DEPS (Planning Agent)</a></li>
-          <li><a href="https://craftjarvis.github.io/JARVIS-1/" target="_blank">JARVIS-1 (Self-improving Agent with Multimodal Memory)</a></li>
-          <li><a href="https://craftjarvis.github.io/RAT" target="_blank">RAT (Open Deep Research Agent)</a></li>
-          <li><a href="https://craftjarvis.github.io/ROCKET-1" target="_blank">ROCKET-1 (Embodied Agent with GUI action space)</a></li>
-          <li><a href="https://pku-proagent.github.io/" target="_blank">ProAgent (Collaborating LLM-based Game Agents)</a></li>
-          <li><a href="https://craftjarvis.github.io/" target="_blank">More Agentic Workflow Projects</a></li>
-        </ul>
+        <strong>Agentic Workflow</strong>: 
+        <a href="https://arxiv.org/pdf/2302.01560.pdf" target="_blank">DEPS (Planning Agent)</a>,
+        <a href="https://craftjarvis.github.io/JARVIS-1/" target="_blank">JARVIS-1 (Self-improving Agent with Multimodal Memory)</a>,
+        <a href="https://craftjarvis.github.io/RAT" target="_blank">RAT (Open Deep Research Agent)</a>,
+        <a href="https://craftjarvis.github.io/ROCKET-1" target="_blank">ROCKET-1 (Embodied Agent with GUI action space)</a>,
+        <a href="https://pku-proagent.github.io/" target="_blank">ProAgent (Collaborating LLM-based Game Agents)</a>,
+        <a href="https://craftjarvis.github.io/" target="_blank">More Agentic Workflow Projects</a>.
       </li>
       <li>
-        <strong>Agentic Foundation Models</strong>: Here, I investigate building and utilizing foundational models specifically designed for agents.
-        <ul>
-          <li><a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS (Hierarchical VLA with Latent Action Space)</a></li>
-          <li><a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA (Vision-Language-Action Model in Open World)</a></li>
-          <li><a href="https://omnijarvis.github.io/" target="_blank">More Agentic Foundation Models Projects</a></li>
-        </ul>
+        <strong>Agentic Foundation Models</strong>: 
+        <a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS (Hierarchical VLA with Latent Action Space)</a>,
+        <a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA (Vision-Language-Action Model in Open World)</a>,
+        <a href="https://omnijarvis.github.io/" target="_blank">More Agentic Foundation Models Projects</a>.
       </li>
     </ul>
   </p>
