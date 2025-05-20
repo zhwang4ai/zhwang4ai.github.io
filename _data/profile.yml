@@ -29,16 +29,16 @@ short_bio: >-
     <ul>
       <li>
         <strong>Agentic Workflow</strong>: 
-        <a href="https://arxiv.org/pdf/2302.01560.pdf" target="_blank">DEPS (Planning Agent)</a>,
-        <a href="https://craftjarvis.github.io/JARVIS-1/" target="_blank">JARVIS-1 (Self-improving Agent with Multimodal Memory)</a>,
-        <a href="https://craftjarvis.github.io/RAT" target="_blank">RAT (Open Deep Research Agent)</a>,
-        <a href="https://craftjarvis.github.io/ROCKET-1" target="_blank">ROCKET-1 (Embodied Agent with GUI action space)</a>,
-        <a href="https://pku-proagent.github.io/" target="_blank">ProAgent (Collaborating LLM-based Game Agents)</a>.
+        <a href="https://arxiv.org/pdf/2302.01560.pdf" target="_blank">DEPS</a> (Planning Agent),
+        <a href="https://craftjarvis.github.io/JARVIS-1/" target="_blank">JARVIS-1</a> (Self-improving Agent with Multimodal Memory),
+        <a href="https://craftjarvis.github.io/RAT" target="_blank">RAT</a> (Open Deep Research Agent),
+        <a href="https://craftjarvis.github.io/ROCKET-1" target="_blank">ROCKET-1</a> (Embodied Agent with GUI action space),
+        <a href="https://pku-proagent.github.io/" target="_blank">ProAgent</a> (Collaborating LLM-based Game Agents).
       </li>
       <li>
         <strong>Agentic Foundation Models</strong>: 
-        <a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS (Hierarchical VLA with Latent Action Space)</a>,
-        <a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA (Vision-Language-Action Model in Open World)</a>.
+        <a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS</a> (Hierarchical VLA with Latent Action Space),
+        <a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA</a> (Vision-Language-Action Model in Open World).
       </li>
     </ul>
   </p>
