@@ -37,8 +37,9 @@ short_bio: >-
       </li>
       <li>
         <strong>Agentic Foundation Models</strong>: 
-        <a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS</a> (Hierarchical VLA with Latent Action Space),
-        <a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA</a> (Vision-Language-Action Model in Open World).
+        <a href="https://seed-tars.com/1.5/" target="_blank">UI-TARS-1.5</a> (An open-source multimodal GUI and Game agent built upon a powerful vision-language model),
+        <a href="https://omnijarvis.github.io/" target="_blank">OmniJARVIS</a> (Hierarchical VLA with latent action space),
+        <a href="https://craftjarvis.github.io/JarvisVLA/" target="_blank">JARVIS-VLA</a> (A vision-language-action model in open worlds).
       </li>
     </ul>
   </p>
