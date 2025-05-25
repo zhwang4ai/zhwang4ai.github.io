@@ -1,7 +1,7 @@
 ---
 title:          "ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting"
 date:           2025-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "CVPR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Workshop'
