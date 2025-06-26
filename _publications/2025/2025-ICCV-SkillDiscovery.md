@@ -2,7 +2,7 @@
 title:          "Open-World Skill Discovery from Unsegmented Demonstrations"
 date:           2025-03-17 00:01:00 +0800
 selected:       false
-pub:            "arXiv"
+pub:            "ICCV"
 # pub_pre:        "Submitted to "
 # pub_post:       'Workshop'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
