@@ -1,8 +1,8 @@
 ---
 title:          "Seed1.5-VL Technical Report"
 date:           2025-05-01 00:01:00 +0800
-selected:       true
-pub:            "arXiv"
+selected:       false
+pub:            "Technical Report"
 # pub_pre:        "Submitted to "
 # pub_post:       'Workshop'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
