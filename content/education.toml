@@ -1,0 +1,24 @@
+type = "card"
+title = "Education"
+description = "Education Background"
+
+[[items]]
+title = "Peking University"
+subtitle = "PhD Student"
+date = "Sep. 2022 - present"
+content = "Institute for Artificial Intelligence"
+tags = ["CS", "AI"]
+
+[[items]]
+title = "Beijing Institute of Technology"
+subtitle = "M.S. in Control Science and Technology"
+date = "Sep. 2019 - Jul. 2022"
+content = "School of Automation"
+tags = ["Control"]
+
+[[items]]
+title = "Beijing Institute of Technology"
+subtitle = "B.Eng. in Automation"
+date = "Sep. 2015 - Jul. 2019"
+content = "School of Automation"
+tags = ["Automation"]

@@ -1,5 +1,8 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I'm a Ph.D. student at the Institute for Artificial Intelligence, Peking University (PKU), advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). I also collaborate closely with [Dr. Xiaojian Ma](https://jeasinema.github.io) and [Prof. Anji Liu](https://liuanji.github.io). Before joining PKU, I earned my MSc and BA degrees in Control Science and Technology from Beijing Institute of Technology.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research centers on building **open-ended generalist agents**, including computer-use agents, embodied game agents, and deep research agents. My core interest lies in building and leveraging large pre-trained **Foundation Models**(LLMs, VLMs, VLAs) to significantly enhance agent generalization capabilities. My research contributions fall into two main categories: 
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+* **Agentic Foundation Models**: [Game-TARS](https://seed-tars.com/game-tars/)(Our latest generalist game agent trained with a unified, scalable action space anchored to human-aligned native keyboard-mouse inputs), [UI-TARS-1.5&2](https://seed-tars.com/1.5/)(An open-source native multimodal GUI and Game agent built upon a powerful vision-language model), [OmniJARVIS](https://omnijarvis.github.io/)(Hierarchical VLA with latent action space), and [JARVIS-VLA](https://craftjarvis.github.io/JarvisVLA/)(A vision-language-action model in open-world game). 
+
+* **Agentic Workflow**: [DEPS](https://arxiv.org/pdf/2302.01560.pdf)(A planning LLM-based agent in open-world Minecraft), [JARVIS-1](https://craftjarvis.github.io/JARVIS-1/)(Self-improving Agent with Multimodal Memory), [RAT](https://craftjarvis.github.io/RAT)(Open Deep Research Agent).
+

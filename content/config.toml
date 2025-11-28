@@ -1,29 +1,27 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Zihao Wang"
+description = "PhD Candidate at the Peking University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "November 28, 2025"
 
 [author]
-name = "Jiale Liu"
+name = "Zihao Wang"
 title = "PhD Student"
-institution = "University of Example"
+institution = "Peking University"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
+email = "zhwang@stu.pku.edu.cn"
+location = "Beijing, China"
 location_url = "https://maps.google.com"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "5 Yiheyuan Rd, Haidian District",
+  "Peking University, Beijing, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=I0D-EgQAAAAJ"
+github = "https://github.com/zhwang4ai"
 
 [features]
 # Show a like button on the about page

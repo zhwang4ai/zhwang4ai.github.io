@@ -3,25 +3,27 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Principal Scholarship"
+subtitle = "Peking University"
 date = "2025"
-content = "Description of the award."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Best Paper Award"
+subtitle = "ICML 2023 TEACH Workshop"
 date = "2023"
-content = "Description of the award."
+content = "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Chinese National Scholarship"
+subtitle = "CHINA"
+date = "2021"
+
+[[items]]
+title = "Outstanding Graduate"
+subtitle = "Beijing"
+date = "2019"
+
+[[items]]
+title = "Meritorious Winner"
+subtitle = "American Mathematical Contest In Modeling (MCM)"
+date = "2018"
