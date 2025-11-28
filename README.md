@@ -1,67 +1,121 @@
-# academic-homepage
+<div align="center">
+  <img src="./logo.png" alt="PRISM Logo" height="100"/>
+</div>
 
-![Preview](assets/images/etc/preview.png)
+# PRISM
 
-[![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
-[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluost26%2Facademic-homepage&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
-[![GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/forks)
+**English** · [中文](README_cn.md) · [Demo](https://prism-demo.pages.dev)  · [Changelog](CHANGELOG.md)
 
-A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
+PRISM stands for **P**ortfolio & **R**esearch **I**nterface **S**ite **M**aker. It is a modern, configurable, and high-performance personal website template built with Next.js, Tailwind CSS, and TypeScript. It is designed for researchers, developers, and academics to showcase their work, publications, and portfolio with ease.
 
-## User Community
+![PRISM Preview](screenshot.png)
 
-[🏡](https://luost.me/)
-[:star:](https://cch1999.github.io/)
-[:star:](https://kyrrego.github.io/)
-[:star:](https://ced3-han.github.io/)
-[:star:](https://lihengchen.com/)
-[:star:](https://hpwang-whu.github.io/)
-[:star:](https://zhang-yingyi.github.io/)
-[:star:](https://wby24.github.io/)
-[:star:](https://pengfeixu.com/)
-[:star:](https://boqiuphd.github.io/)
-[:star:](https://www.huabing.li/)
-[:star:](https://xiecuiying.github.io/)
-[:star:](https://hannyang.github.io/)
-[:star:](https://king-play.github.io/)
-[🤖](https://andrewcwlee.github.io)
-[:star:](https://laiyao1.github.io)
+## ✨ Features
 
+*   **📄 Configuration-Driven**: Manage your entire site's content using simple `TOML`, `Markdown`, and `BibTeX` files in the `content/` directory. No code changes required for content updates!
+*   **📚 BibTeX Support**: Directly render your publications from a `.bib` file. Includes search, filtering (Year, Type), and automatic citation generation.
+*   **🎨 Modern Design**: Clean, responsive UI with a beautiful serif/sans-serif typography pairing, smooth animations (Framer Motion), and Dark Mode support.
+*   **⚡️ High Performance**: Built on Next.js 20 with Turbopack. Static export ensures blazing fast load times and easy deployment.
+*   **🔍 SEO Optimized**: Dynamic metadata generation for every page.
+*   **🧩 Dynamic Routing**: Easily add new pages by simply creating a config file.
 
-:hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
+## 🚀 Getting Started
 
+### Prerequisites
 
-## Need Help?
+*   Node.js 15 or later
+*   npm, pnpm, or yarn
 
-If you run into **any** issues while using this template, or have suggestions for improvements, please don't hesitate to create an issue [here](https://github.com/luost26/academic-homepage/issues/new).
+### Installation
 
+1.  **Clone the repository:**
 
-## Getting Started
+    ```bash
+    git clone https://github.com/xyjoey/PRISM.git
+    cd PRISM
+    ```
 
-1. First, fork this repository or click the "Use this template" button to create a new repository. The name of the repository should be `<your-github-username>.github.io` (click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) to learn more about naming a GitHub Pages repository).
-   - If you plan to customize the functionality or style of the template, and do not want to get updates from this repository, choose "Use this template".
-   - If you plan to only edit the content (biography, publications, news, etc.), and would like to get updates from this repository, choose "Fork".
-   - If you want to contribute to this project, fork the repository and submit a pull request.
+2.  **Install dependencies:**
 
-### Running Locally (Debug & Preview)
+    ```bash
+    npm install
+    ```
 
-2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
+3.  **Run the development server:**
 
-3. Clone your forked repository to your local machine.
+    ```bash
+    npm run dev
+    ```
 
-4. Run the following command in the root directory of the repository:
+    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-   ```bash
-   bundle exec jekyll serve
-   ```
+## 🛠️ Configuration
 
-5. Browse to the displayed URL to see the website.
+All content lives in the `content/` directory.
 
-### Deploying to GitHub Pages
+### 1. Global Site Config (`content/config.toml`)
+Configure your site title, author details, social links, and navigation menu here.
 
-2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+```toml
+[site]
+title = "Your Name"
+description = "Personal website of Your Name"
+url = "https://your-website.com"
 
-3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
+[author]
+name = "Your Name"
+title = "PhD Student / Researcher"
+# ...
 
+[features]
+enable_likes = true
+```
+
+### 2. Homepage (`content/about.toml`)
+Customize the "About" section, "News", and "Selected Publications" on the homepage.
+
+### 3. Publications (`content/publications.bib`)
+Export your publications from Google Scholar, Zotero, or Mendeley to `content/publications.bib`. PRISM automatically parses this file to generate your Publications page. Customize the display of publications by changing `selected`, `preview` and `description` keys in the bib file. 
+
+### 4. Adding New Pages
+To add a new page (e.g., "Projects"), create a TOML file in `content/` (e.g., `content/projects.toml`) and add it to the `navigation` list in `content/config.toml`.
+
+Supported page types:
+*   `text`: Renders Markdown content (Great for CVs, Bio).
+*   `card`: Renders a list of cards (Great for Projects, Awards).
+*   `publication`: Renders the full publications list with filters.
+
+## 📦 Deployment
+
+PRISM is optimized for static deployment.
+
+```bash
+npm run build
+```
+
+This generates a static `out/` directory that can be hosted anywhere.
+
+👉 **[Read the full Deployment Guide](docs/deployment.md)** for instructions on deploying to **GitHub Pages** and **Cloudflare Pages**.
+
+## 📂 Project Structure
+
+```
+PRISM/
+├── content/              # All user-editable content (TOML, BibTeX, MD)
+├── public/               # Static assets (images, papers)
+├── src/
+│   ├── app/              # Next.js App Router
+│   ├── components/       # React components
+│   ├── lib/              # Utility functions (parsers, config loaders)
+│   └── types/            # TypeScript definitions
+├── next.config.ts        # Next.js configuration
+└── tailwind.config.ts    # Tailwind CSS configuration
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
