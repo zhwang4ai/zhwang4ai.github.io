@@ -4,12 +4,9 @@ layout: homepage
 
 ## About Me
 
-I'm a Ph.D. candidate at the Institute for Artificial Intelligence, Peking University (PKU), advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). I also collaborate closely with [Dr. Xiaojian Ma](https://jeasinema.github.io) and [Prof. Anji Liu](https://liuanji.github.io). Before joining PKU, I earned my M.S. and B.Eng. degrees from Beijing Institute of Technology.
+I'm a researcher at [ByteDance Seed](https://seed.bytedance.com/). I received my Ph.D. degree from the Institute for Artificial Intelligence, Peking University (PKU) in 2026, advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). I also collaborated closely with [Dr. Xiaojian Ma](https://jeasinema.github.io) and [Prof. Anji Liu](https://liuanji.github.io). Before joining PKU, I earned my M.S. and B.Eng. degrees from Beijing Institute of Technology.
 
 My research centers on building **open-ended generalist agents**, including computer-use agents, embodied game agents, and deep research agents. My core interest lies in building and leveraging large pre-trained **Foundation Models** (LLMs, VLMs, VLAs) to significantly enhance agent generalization capabilities.
-
-<span style="color: #e74d3c;">I expect to graduate in 2026 and am looking for job opportunities in the industry. Please feel free to contact me if you are interested.</span>
-
 ## Research Interests
 
 - **Agentic Foundation Models:** [Game-TARS](https://seed-tars.com/game-tars/), [UI-TARS-2 & UI-TARS-1.5](https://seed-tars.com/1.5/), [OmniJARVIS](https://omnijarvis.github.io/), [JARVIS-VLA](https://craftjarvis.github.io/JarvisVLA/)
@@ -30,15 +27,10 @@ My research centers on building **open-ended generalist agents**, including comp
 
 {% include_relative _includes/publications.md %}
 
-## Education
-
-- **Peking University**, Ph.D. Candidate, Institute for Artificial Intelligence, *Sep. 2022 - present*
-- **Beijing Institute of Technology**, M.S. in Control Science and Technology, *Sep. 2019 - Jul. 2022*
-- **Beijing Institute of Technology**, B.Eng. in Automation, *Sep. 2015 - Jul. 2019*
-
 ## Experience
 
-- **ByteDance Seed**, Research Intern, *Dec. 2024 - present*
+- **ByteDance Seed**, Researcher, *2026 - present*
+- **ByteDance Seed**, Research Intern, *Dec. 2024 - Jun. 2026*
 - **Alibaba Inc.**, Research Intern, *May. 2021 - Aug. 2021*
 
 ## Honors & Awards
