@@ -1,40 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Basic Information 
+title: Zihao Wang
+position: Ph.D. Candidate
+affiliation: Institute for Artificial Intelligence, Peking University
+affiliation_link: https://www.ai.pku.edu.cn/
+email: zhwang (at) stu.pku.edu.cn
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-baseurl: "" # the subpath of your site, e.g. /blog
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Zihao Wang, Peking University, Multimodal Agent, Game Agent, GUI Agent, Vision-Language-Action, Foundation Models, Game-TARS, UI-TARS, JARVIS
+description: Zihao Wang is a Ph.D. candidate at Peking University working on open-ended generalist agents and agentic foundation models.
+canonical: https://zhwang4ai.github.io/
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-email-protect
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=I0D-EgQAAAAJ
+cv_link: assets/pdfs/English_CV_ZihaoWang.pdf
+github_link: https://github.com/zhwang4ai
+twitter: https://twitter.com/RealZihaoWang
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/images/photos/ZihaoWang.jpg
+favicon: ./assets/images/photos/android-chrome-512x512.png
+favicon_dark: ./assets/images/photos/android-chrome-512x512.png
 
-# timezone: Asia/Shanghai
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
 
-collections:
-  - publications
-  - news
-  - showcase
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules/
