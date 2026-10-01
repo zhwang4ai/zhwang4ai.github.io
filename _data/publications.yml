@@ -36,6 +36,16 @@ technical_reports:
     Paper: https://arxiv.org/abs/2505.07062
     API: https://www.volcengine.com/experience/ark?model=doubao-1-5-thinking-vision-pro-250428
 selected:
+- title: 'OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft'
+  authors: <strong>Zihao Wang</strong>, <a href="https://muyaoli-jimo.github.io">Muyao Li</a>, Kaichen He, Xiangyu Wang, <a href="https://muzhancun.github.io/">Zhancun Mu</a>, <a href="https://liuanji.github.io/">Anji Liu</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
+  conference_short: ICML
+  conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+  image: /assets/images/covers/2509.13347.jpg
+  pdf: https://arxiv.org/abs/2509.13347
+  links:
+    Paper: https://arxiv.org/abs/2509.13347
+    Code: https://github.com/CraftJarvis/OpenHA
+    Model: https://huggingface.co/CraftJarvis/minecraft-openha-qwen2vl-7b-2509
 - title: 'Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents'
   authors: Bytedance Seed
   conference_short: arXiv
@@ -54,6 +64,18 @@ selected:
   links:
     Project: https://seed-tars.com/showcase/ui-tars-2/
     Paper: https://arxiv.org/abs/2509.02544
+- title: 'JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse'
+  authors: <a href="https://muyaoli-jimo.github.io">Muyao Li</a>*, <strong>Zihao Wang*</strong>, Kaichen He, <a href="https://jeasinema.github.io/">Xiaojian Ma</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
+  conference_short: ACL Findings
+  conference: Findings of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2025.
+  image: /assets/images/covers/JarvisVLA.png
+  pdf: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
+  links:
+    Project: https://craftjarvis.github.io/JarvisVLA/
+    Paper: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
+    Code: https://github.com/CraftJarvis/JarvisVLA
+    Dataset: https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft
+    Model: https://huggingface.co/CraftJarvis/JarvisVLA-Qwen2-VL-7B
 - title: 'OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents'
   authors: <strong>Zihao Wang</strong>, Shaofei Cai, <a href="https://muzhancun.github.io/">Zhancun Mu</a>, <a href="https://linhaowei1.github.io/">Haowei Lin</a>, <a href="https://scholar.google.com/citations?user=OadTFGMAAAAJ">Ceyao Zhang</a>, Xuejie Liu, Qing Li, <a href="https://liuanji.github.io/">Anji Liu</a>, <a href="https://jeasinema.github.io/">Xiaojian Ma</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
   conference_short: NeurIPS
@@ -110,18 +132,6 @@ others:
     Project: https://seed-tars.com/1.5/
     Paper: https://arxiv.org/abs/2501.12326
     Huggingface Models: https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B
-- title: 'JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse'
-  authors: <a href="https://muyaoli-jimo.github.io">Muyao Li</a>*, <strong>Zihao Wang*</strong>, Kaichen He, <a href="https://jeasinema.github.io/">Xiaojian Ma</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
-  conference_short: ACL Findings
-  conference: Findings of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2025.
-  image: /assets/images/covers/JarvisVLA.png
-  pdf: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
-  links:
-    Project: https://craftjarvis.github.io/JarvisVLA/
-    Paper: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
-    Code: https://github.com/CraftJarvis/JarvisVLA
-    Dataset: https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft
-    Model: https://huggingface.co/CraftJarvis/JarvisVLA-Qwen2-VL-7B
 - title: Open-World Skill Discovery from Unsegmented Demonstrations
   authors: Jingwen Deng*, <strong>Zihao Wang*</strong>, <a href="https://liuanji.github.io/">Anji Liu</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
   conference_short: ICCV
