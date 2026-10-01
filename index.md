@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a researcher at [ByteDance Seed](https://seed.bytedance.com/). I received my Ph.D. degree from the Institute for Artificial Intelligence, Peking University (PKU) in 2026, advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). I also collaborated closely with [Dr. Xiaojian Ma](https://jeasinema.github.io) and [Prof. Anji Liu](https://liuanji.github.io). Before joining PKU, I earned my M.S. and B.Eng. degrees from Beijing Institute of Technology.
 
-My research centers on building **open-ended generalist agents**, including computer-use agents, embodied game agents, and deep research agents. My core interest lies in building and leveraging large pre-trained **Foundation Models** (LLMs, VLMs, VLAs) to significantly enhance agent generalization capabilities.
+My research centers on building large language models for generalist agents, computer-use agents, and real-time game agents.
 ## Research Interests
 
 - **Agentic Foundation Models:** [Game-TARS](https://seed-tars.com/game-tars/), [UI-TARS-2 & UI-TARS-1.5](https://seed-tars.com/1.5/), [OmniJARVIS](https://omnijarvis.github.io/), [JARVIS-VLA](https://craftjarvis.github.io/JarvisVLA/)
