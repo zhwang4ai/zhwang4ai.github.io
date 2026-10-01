@@ -4,13 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a researcher at [ByteDance Seed](https://seed.bytedance.com/). I received my Ph.D. degree from the Institute for Artificial Intelligence, Peking University (PKU) in 2026, advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ). I also collaborated closely with [Dr. Xiaojian Ma](https://jeasinema.github.io) and [Prof. Anji Liu](https://liuanji.github.io). Before joining PKU, I earned my M.S. and B.Eng. degrees from Beijing Institute of Technology.
-
-My research centers on building large language models for generalist agents, computer-use agents, and real-time game agents.
-## Research Interests
-
-- **Agentic Foundation Models:** [Game-TARS](https://seed-tars.com/game-tars/), [UI-TARS-2 & UI-TARS-1.5](https://seed-tars.com/1.5/), [OmniJARVIS](https://omnijarvis.github.io/), [JARVIS-VLA](https://craftjarvis.github.io/JarvisVLA/)
-- **Agentic Workflow:** [DEPS](https://arxiv.org/pdf/2302.01560.pdf), [JARVIS-1](https://craftjarvis.github.io/JARVIS-1/), [RAT](https://craftjarvis.github.io/RAT), [ROCKET-1](https://craftjarvis.github.io/ROCKET-1), [ProAgent](https://pku-proagent.github.io/)
+I'm a researcher at [ByteDance Seed](https://seed.bytedance.com/). I received my Ph.D. degree from the Institute for Artificial Intelligence, Peking University (PKU) in 2026, advised by [Prof. Yitao Liang](https://scholar.google.com/citations?user=KVzR1XEAAAAJ) and [Prof. Yaodong Yang](https://yangyaodong.com/). I also collaborated closely with [Dr. Xiaojian Ma](https://jeasinema.github.io) and [Prof. Anji Liu](https://liuanji.github.io). My research centers on building large language models for generalist agents, computer-use agents, and real-time game agents.
 
 ## News
 
@@ -29,12 +23,12 @@ My research centers on building large language models for generalist agents, com
 
 ## Experience
 
-- **ByteDance Seed**, Researcher, *2026 - present*
 - **ByteDance Seed**, Research Intern, *Dec. 2024 - Jun. 2026*
 - **Alibaba Inc.**, Research Intern, *May. 2021 - Aug. 2021*
 
 ## Honors & Awards
 
+- **[2026]** Outstanding Graduate, Peking University
 - **[2025]** Principal Scholarship, Peking University
 - **[2023]** Best Paper Award, ICML 2023 TEACH Workshop
 - **[2021]** Chinese National Scholarship

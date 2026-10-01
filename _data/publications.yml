@@ -1,3 +1,40 @@
+technical_reports:
+- title: 'Seed2.1: Advancing AI Productivity'
+  authors: ByteDance Seed
+  conference_short: Tech Report
+  conference: Technical Report, 2026.
+  image: /assets/images/covers/seed2_1.jpg
+  pdf: https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity
+  links:
+    Blog: https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity
+- title: 'Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity'
+  authors: ByteDance Seed
+  conference_short: Tech Report
+  conference: Technical Report, 2026.
+  image: /assets/images/covers/seed2_0.jpg
+  pdf: https://arxiv.org/abs/2607.00248
+  links:
+    Project: https://seed.bytedance.com/en/seed2
+    Paper: https://arxiv.org/abs/2607.00248
+- title: 'Seed1.8 Model Card: Towards Generalized Real-World Agency'
+  authors: ByteDance Seed
+  conference_short: Tech Report
+  conference: Technical Report, 2025.
+  image: /assets/images/covers/seed1_8.jpg
+  pdf: https://arxiv.org/abs/2603.20633
+  links:
+    Project: https://seed.bytedance.com/en/seed1_8
+    Paper: https://arxiv.org/abs/2603.20633
+- title: Seed1.5-VL Technical Report
+  authors: ByteDance Seed
+  conference_short: Tech Report
+  conference: Technical Report, 2025.
+  image: /assets/images/covers/Seed_15_VL.png
+  pdf: https://arxiv.org/abs/2505.07062
+  links:
+    Project: https://seed.bytedance.com/zh/tech/seed1_5_vl
+    Paper: https://arxiv.org/abs/2505.07062
+    API: https://www.volcengine.com/experience/ark?model=doubao-1-5-thinking-vision-pro-250428
 selected:
 - title: 'Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents'
   authors: Bytedance Seed
@@ -17,28 +54,6 @@ selected:
   links:
     Project: https://seed-tars.com/showcase/ui-tars-2/
     Paper: https://arxiv.org/abs/2509.02544
-- title: UI-TARS-1.5
-  authors: Bytedance Seed
-  conference_short: arXiv
-  conference: arXiv preprint, 2025.
-  image: /assets/images/covers/ui_tars_cover.png
-  pdf: https://arxiv.org/abs/2501.12326
-  links:
-    Project: https://seed-tars.com/1.5/
-    Paper: https://arxiv.org/abs/2501.12326
-    Huggingface Models: https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B
-- title: 'JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse'
-  authors: <a href="https://muyaoli-jimo.github.io">Muyao Li</a>*, <strong>Zihao Wang*</strong>, Kaichen He, <a href="https://jeasinema.github.io/">Xiaojian Ma</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
-  conference_short: ACL Findings
-  conference: Findings of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2025.
-  image: /assets/images/covers/JarvisVLA.png
-  pdf: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
-  links:
-    Project: https://craftjarvis.github.io/JarvisVLA/
-    Paper: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
-    Code: https://github.com/CraftJarvis/JarvisVLA
-    Dataset: https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft
-    Model: https://huggingface.co/CraftJarvis/JarvisVLA-Qwen2-VL-7B
 - title: 'OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents'
   authors: <strong>Zihao Wang</strong>, Shaofei Cai, <a href="https://muzhancun.github.io/">Zhancun Mu</a>, <a href="https://linhaowei1.github.io/">Haowei Lin</a>, <a href="https://scholar.google.com/citations?user=OadTFGMAAAAJ">Ceyao Zhang</a>, Xuejie Liu, Qing Li, <a href="https://liuanji.github.io/">Anji Liu</a>, <a href="https://jeasinema.github.io/">Xiaojian Ma</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
   conference_short: NeurIPS
@@ -85,16 +100,28 @@ selected:
     Twitter: https://twitter.com/jeasinema/status/1622428535897067521
   notes: Best Paper Award, ICML 2023 TEACH Workshop
 others:
-- title: Seed1.5-VL Technical Report
+- title: UI-TARS-1.5
   authors: Bytedance Seed
-  conference_short: Technical Report
-  conference: Technical Report, 2025.
-  image: /assets/images/covers/Seed_15_VL.png
-  pdf: https://arxiv.org/abs/2505.07062
+  conference_short: arXiv
+  conference: arXiv preprint, 2025.
+  image: /assets/images/covers/ui_tars_cover.png
+  pdf: https://arxiv.org/abs/2501.12326
   links:
-    Project: https://seed.bytedance.com/zh/tech/seed1_5_vl
-    Paper: https://arxiv.org/abs/2505.07062
-    API: https://www.volcengine.com/experience/ark?model=doubao-1-5-thinking-vision-pro-250428
+    Project: https://seed-tars.com/1.5/
+    Paper: https://arxiv.org/abs/2501.12326
+    Huggingface Models: https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B
+- title: 'JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse'
+  authors: <a href="https://muyaoli-jimo.github.io">Muyao Li</a>*, <strong>Zihao Wang*</strong>, Kaichen He, <a href="https://jeasinema.github.io/">Xiaojian Ma</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
+  conference_short: ACL Findings
+  conference: Findings of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2025.
+  image: /assets/images/covers/JarvisVLA.png
+  pdf: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
+  links:
+    Project: https://craftjarvis.github.io/JarvisVLA/
+    Paper: https://craftjarvis.github.io/JarvisVLA/files/jarvis_vla_draft.pdf
+    Code: https://github.com/CraftJarvis/JarvisVLA
+    Dataset: https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft
+    Model: https://huggingface.co/CraftJarvis/JarvisVLA-Qwen2-VL-7B
 - title: Open-World Skill Discovery from Unsegmented Demonstrations
   authors: Jingwen Deng*, <strong>Zihao Wang*</strong>, <a href="https://liuanji.github.io/">Anji Liu</a>, <a href="https://scholar.google.com/citations?user=KVzR1XEAAAAJ">Yitao Liang</a>
   conference_short: ICCV
