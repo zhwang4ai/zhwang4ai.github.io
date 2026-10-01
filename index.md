@@ -10,12 +10,6 @@ I'm a researcher at [ByteDance Seed](https://seed.bytedance.com/). I received my
 
 - **[Oct. 2025]** We release [Game-TARS](https://seed-tars.com/game-tars/), a generalist game agent built on a unified keyboard-mouse action space.
 - **[Sep. 2025]** We release [UI-TARS-2](https://seed-tars.com/showcase/ui-tars-2/), advancing GUI agents with multi-turn reinforcement learning.
-- **[Jun. 2025]** Our paper "Open-World Skill Discovery from Unsegmented Demonstrations" is accepted by ICCV 2025.
-- **[May. 2025]** [JARVIS-VLA](https://craftjarvis.github.io/JarvisVLA/) is accepted by ACL 2025 Findings.
-- **[Apr. 2025]** MCU (evaluation of open-world agents) is selected as a **spotlight** paper by ICML 2025.
-- **[Feb. 2025]** 1 paper is accepted by CVPR 2025 and 1 paper is accepted by ICLR 2025.
-- **[Dec. 2024]** [JARVIS-1](https://craftjarvis.github.io/JARVIS-1/) is accepted by T-PAMI.
-- **[Sep. 2024]** [OmniJARVIS](https://omnijarvis.github.io/) is accepted by NeurIPS 2024.
 - **[Aug. 2024]** We organize the 1st [Open-World Agent Workshop](https://sites.google.com/view/open-world-agents/) at NeurIPS 2024.
 - **[Jul. 2023]** DEPS received the **Best Paper Award** at ICML 2023 TEACH Workshop!
 
